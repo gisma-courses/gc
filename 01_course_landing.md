@@ -62,10 +62,11 @@ The contents are therefore thematically associated but not intended as a closed 
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Geoinformatik Basiskurs (QGIS)</h3>
+					<h3>Basic geoinformatics course(QGIS)</h3>
 				</header>
 				<p>
-				Raum-zeitliche Daten und ihre Manipulation, Analyse und Darstellung sind wissenschaftliche Grundelemente der Geographie. Die Analysen bilden die Grundlage für den Erkenntnisgewinn in der Forschung und die resultierenden Medien sind die zentralen Kommunikationsmittel. Daten und Datenanalyse sowie die Modellierung dieser Daten sind daher fester Bestandteil des fachlichen Verstehens. Der basale Umgang mit Daten, Vorbereitung, visuelle Exploration, Analyse und Präsentation stellt eine wichtige Kernkompetenz für das Berufsbild einer Geographin dar. Dieser Kurs ist der Basiskurs GIS für Geograph:innen.
+				<p class="notice--warning">German Only</p>
+Spatio-temporal data and their manipulation, analysis and representation are basic scientific elements of geography. The analyses form the basis for gaining knowledge in research and the resulting media are the central means of communication. Data and data analysis, as well as the modeling of these data, are therefore an integral part of professional understanding. The basal handling of data, preparation, visual exploration, analysis, and presentation represents an important core competency for a geographer's job description. This course is the basic GIS course for geographers.
 				</p>
 				<ul class="actions">
 					<li><a href="https://gisma-courses.github.io/geoinfo-basis-qgis/" class="button">Learn more</a></li>
@@ -106,12 +107,12 @@ This course is designed for students of all levels who have a basic knowledge of
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Methoden der Geoinformatik (Change Detection)</h3>
+					<h3>Geoinformatics methods (Change Detection)</h3>
 				</header>
 				<p>
-				Die Lehrveranstaltung Methoden der Geoinformatik - Change Detection bietet eine vollständige Einführung in die reproduzierbare Veränderungserfassung von Landoberflächen/Landnutzung (Change Detection) basierend auf R und Open Source Software.
-Dieser Kurs richtet sich an Bachelor Studierende der Geographie, die über Grundkenntnisse in der Organisation ihres Betriebssystems verfügen.
-				</p>
+				<p class="notice--warning">German Only</p>
+The course Methods of Geoinformatics - Change Detection provides a complete introduction to reproducible change detection of land surfaces/land use (change detection) based on R and open source software.
+This course is intended for undergraduate students of geography who have a basic knowledge of the organization of their operating system.				</p>
 				<ul class="actions">
 					<li><a href="https://gisma-courses.github.io/LV-19-050-007/" class="button">Learn more</a></li>
 				</ul>
@@ -152,10 +153,11 @@ Dieser Kurs richtet sich an Bachelor Studierende der Geographie, die über Grund
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Big Data und Räumliche Ökonometrie </h3>
+					<h3>Big Data and Spatial Econometrics </h3>
 				</header>
 				<p>
-				Die raum-zeitliche Datenanalyse insbesondere von Big Data sowie die raumzeitlich Vorhersage auf diese Daten sind typische Anforderungen der räumlichen Ökonometrie. Räumliche Daten adäquat zu analysiseren und insbesondere die räumlichen Korrelationen zuverlässig einzuschätzenist die  die Grundlage für viele wirstschaftlcihe Entscheidungsprozesse. Zur Kommunikation müssen geeignete Visualisierungen und Geomedien erstellt werden. Der basale Umgang mit Daten, Vorbereitung, visuelle Exploration, Analyse und Präsentation werden in diesem Kurs als wichtige Kernkompetenz für raumzeiltliche öknonomische und soziale Prozesse vermittelt.
+				<p class="notice--warning">German Only</p>
+				Spatio-temporal data analysis, especially of Big Data, and spatio-temporal prediction on these data are typical requirements of spatial econometrics. The adequate analysis of spatial data and the reliable assessment of spatial correlations are the basis for many economic decision-making processes. For communication purposes, suitable visualizations and geomedia must be created. The basic handling of data, preparation, visual exploration, analysis and presentation are taught in this course as an important core competence for spatial economic and social processes.
 				</p>
 				<ul class="actions">
 					<li><a href="https://gisma-courses.github.io/r-spatial-econometry-basics/" class="button">Learn more</a></li>
@@ -168,7 +170,6 @@ Dieser Kurs richtet sich an Bachelor Studierende der Geographie, die über Grund
 
 
 
-</section>
 <!-- Three -->
 <section id="three">
 	<div class="inner">
@@ -177,14 +178,25 @@ Dieser Kurs richtet sich an Bachelor Studierende der Geographie, die über Grund
 		</header>
 		<p>
 
-<h4>GIS Module Bachelor 2010/2011</h4>
-Da sie immer noch nachgefragt sind werden sie hier verlinkt die beiden ersten lerntheoretisch aufgebauten detuschsprachigen GIS Lernmodule. 
+<h4>GIS Modules Bachelor 2010/2011</h4>
 
-Mit den Online-Lehrmaterialien sollte erstmals eine klar strukturierte und inhaltlich auf die Kursziele abgestimmte Wissensgrundlage, die selbstgesteuertes Lernen einfordert und unterstützt werden.
-Das Online Angebot fußte lerntheoretisch auf einem konstruktivistischen Didaktikverständnis.
-Alle Veranstaltungen waren als Blended Learning Module aufgebaut, beinhalten also Präsenzphasen und eigenverantwortliche Lernzeiten. Die Kurse eignen sich jedoch auch für die eigenständige Beschäftigung mit der Thematik. Alle Kurse sind als SCORM/IMS Module für beliebige Lernplattformen verfügbar. 
+<p class="notice--warning">German Only</p>
 
-Achtung aufgrund des über 10 Jahre alten Techniken kann es zu fehlerhaften Darstellungen kommen.
+
+Since they are still in demand they are linked here: GISMA's first two German-language GIS learning modules based on learning theory. 
+
+At that time, the online learning materials were intended to provide a clearly structured knowledge base that was aligned with the course objectives and that demanded and supported self-directed learning.
+The online offering was based on a constructivist understanding of didactics in terms of learning theory.
+All courses were structured as blended learning modules, i.e., they included attendance phases and self-directed learning times. However, the courses are also suitable for independent study of the subject matter. All courses are available as SCORM/IMS modules for any learning platform. 
+
+Attention due to the over 10 years old technology, there may be errors in the presentation.
+Since they are still in demand they are linked here: GISMA's first two German-language GIS learning modules based on learning theory. 
+
+At that time, the online learning materials were intended to provide a clearly structured knowledge base that was aligned with the course objectives and that demanded and supported self-directed learning.
+The online offering was based on a constructivist understanding of didactics in terms of learning theory.
+All courses were structured as blended learning modules, i.e., they included attendance phases and self-directed learning times. However, the courses are also suitable for independent study of the subject matter. All courses are available as SCORM/IMS modules for any learning platform. 
+
+Attention due to the over 10 years old technology, there may be errors in the presentation.
 
 		</p>
 		<ul class="actions">
