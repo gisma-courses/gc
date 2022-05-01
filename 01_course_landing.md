@@ -177,6 +177,7 @@ Dieser Kurs richtet sich an Bachelor Studierende der Geographie, die über Grund
 		</header>
 		<p>
 
+<h4>GIS Module Bachelor 2010/2011</h4>
 Da sie immer noch nachgefragt sind werden sie hier verlinkt die beiden ersten lerntheoretisch aufgebauten detuschsprachigen GIS Lernmodule. 
 
 Mit den Online-Lehrmaterialien sollte erstmals eine klar strukturierte und inhaltlich auf die Kursziele abgestimmte Wissensgrundlage, die selbstgesteuertes Lernen einfordert und unterstützt werden.
@@ -190,6 +191,12 @@ Achtung aufgrund des über 10 Jahre alten Techniken kann es zu fehlerhaften Dars
 			<li><a href="https://gisbsc.gis-ma.org/GISBScL1/de/html/index.html" class="button next"> GIS Modul 2010</a></li>
 				<li><a href="https://minibsc.gis-ma.org/GISBScL1/de/html/index.html" class="button next"> GIS Modul 2011</a></li>
 		</ul>
+		<h4></h4>
+		<ul class="actions">
+			<li><a href="https://gisbsc.gis-ma.org/GISBScL1/de/html/index.html" class="button next"> GIS Modul 2010</a></li>
+				<li><a href="https://minibsc.gis-ma.org/GISBScL1/de/html/index.html" class="button next"> GIS Modul 2011</a></li>
+		</ul>
+		
 	</div>
 </section>
 
