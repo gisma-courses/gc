@@ -48,7 +48,7 @@ The responsibility for the content rests with the instructors. Statements, opini
 The contents are therefore thematically associated but not intended as a closed workflow. The course units are composed of individual modules.
 				</p>
 				<ul class="actions">
-					<li><a href="https://gisma-courses.github.io/gi-modules/" class="button">Learn more</a></li>
+					<li><a href="https://gisma-courses.github.io/gi-modules/" class="button">Start Course</a></li>
 				</ul>
 			</div>
 		</div>
@@ -65,11 +65,11 @@ The contents are therefore thematically associated but not intended as a closed 
 					<h3>Basic geoinformatics course(QGIS)</h3>
 				</header>
 				<p>
-				<p class="notice--warning">German Only</p>
+
 Spatio-temporal data and their manipulation, analysis and representation are basic scientific elements of geography. The analyses form the basis for gaining knowledge in research and the resulting media are the central means of communication. Data and data analysis, as well as the modeling of these data, are therefore an integral part of professional understanding. The basal handling of data, preparation, visual exploration, analysis, and presentation represents an important core competency for a geographer's job description. This course is the basic GIS course for geographers.
 				</p>
 				<ul class="actions">
-					<li><a href="https://gisma-courses.github.io/geoinfo-basis-qgis/" class="button">Learn more</a></li>
+					<li><a href="https://gisma-courses.github.io/geoinfo-basis-qgis/" > <p class="notice--danger">German only | Start Course</p></a></li>
 				</ul>
 			</div>
 		</div>
@@ -92,7 +92,7 @@ Spatio-temporal data and their manipulation, analysis and representation are bas
 This course is designed for students of all levels who have a basic knowledge of the organization of their operating system. Programming knowledge is not required but will be helpful for the advanced module Analysis of high resolution aerial data. The focus is on a practical approach to the independent acquisition of high resolution aerial data. Post-processing of products and an introduction to classification and analysis of the generated datasets complete the course.
 				</p>
 				<ul class="actions">
-					<li><a href="https://gisma-courses.github.io/LV-uav-workflow/" class="button">Learn more</a></li>
+					<li><a href="https://gisma-courses.github.io/LV-uav-workflow/" class="button">Start Course</a></li>
 				</ul>
 			</div>
 		</div>
@@ -110,11 +110,11 @@ This course is designed for students of all levels who have a basic knowledge of
 					<h3>Geoinformatics methods (Change Detection)</h3>
 				</header>
 				<p>
-				<p class="notice--warning">German Only</p>
+
 The course Methods of Geoinformatics - Change Detection provides a complete introduction to reproducible change detection of land surfaces/land use (change detection) based on R and open source software.
 This course is intended for undergraduate students of geography who have a basic knowledge of the organization of their operating system.				</p>
 				<ul class="actions">
-					<li><a href="https://gisma-courses.github.io/LV-19-050-007/" class="button">Learn more</a></li>
+					<li><a href="https://gisma-courses.github.io/LV-19-050-007/"> <p class="notice--danger">German only | Start Course</p></a></li>
 				</ul>
 			</div>
 		</div>
@@ -135,7 +135,7 @@ This course is intended for undergraduate students of geography who have a basic
 				The advanced Geoinformation Systems (aGIS) course is a full term overview of selected methodological approaches in advanced GIS analysis using reproducible research workflows, based on R and Open Source Software and a full integration of GitHub. This course is intended for the master level in Geography to participants who have a working knowledge of the basic organisation of their operating system as well as basic knowledge of GI Concepts and Scripting. The scientific topic is statistical modeling of forest microclimate based on LiDAR and sentinel datasets and station measurements.
 				</p>
 				<ul class="actions">
-					<li><a href="https://gisma-courses.github.io/LV-19-d19-006/" class="button">Learn more</a></li>
+					<li><a href="https://gisma-courses.github.io/LV-19-d19-006/" class="button">Start Course</a></li>
 				</ul>
 			</div>
 		</div>
@@ -156,11 +156,11 @@ This course is intended for undergraduate students of geography who have a basic
 					<h3>Big Data and Spatial Econometrics </h3>
 				</header>
 				<p>
-				<p class="notice--warning">German Only</p>
+
 				Spatio-temporal data analysis, especially of Big Data, and spatio-temporal prediction on these data are typical requirements of spatial econometrics. The adequate analysis of spatial data and the reliable assessment of spatial correlations are the basis for many economic decision-making processes. For communication purposes, suitable visualizations and geomedia must be created. The basic handling of data, preparation, visual exploration, analysis and presentation are taught in this course as an important core competence for spatial economic and social processes.
 				</p>
 				<ul class="actions">
-					<li><a href="https://gisma-courses.github.io/r-spatial-econometry-basics/" class="button">Learn more</a></li>
+					<li><a href="https://gisma-courses.github.io/r-spatial-econometry-basics/"> <p class="notice--danger">German only | Start Course</p></a></li>
 				</ul>
 			</div>
 		</div>
@@ -180,9 +180,6 @@ This course is intended for undergraduate students of geography who have a basic
 
 <h4>GIS Modules Bachelor 2010/2011</h4>
 
-<p class="notice--warning">German Only</p>
-
-
 Since they are still in demand they are linked here: GISMA's first two German-language GIS learning modules based on learning theory. 
 
 At that time, the online learning materials were intended to provide a clearly structured knowledge base that was aligned with the course objectives and that demanded and supported self-directed learning.
@@ -200,8 +197,8 @@ Attention due to the over 10 years old technology, there may be errors in the pr
 
 		</p>
 		<ul class="actions">
-			<li><a href="https://gisbsc.gis-ma.org/GISBScL1/de/html/index.html" class="button next"> GIS Modul 2010</a></li>
-				<li><a href="https://minibsc.gis-ma.org/GISBScL1/de/html/index.html" class="button next"> GIS Modul 2011</a></li>
+			<li><a href="https://gisbsc.gis-ma.org/GISBScL1/de/html/index.html" > <p class="notice--danger">German only | GIS Modul 2010</p></a></li>
+				<li><a href="https://minibsc.gis-ma.org/GISBScL1/de/html/index.html">  <p class="notice--danger">German only | GIS Modul 2011</p></a></li>
 		</ul>
 
 		
