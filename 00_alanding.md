@@ -65,7 +65,7 @@ The focus is on reproducible scientific method training Education in the fields 
 
 
 	<section>
-		<a href="courses.html" class="image">
+		<a href="01_course_landing.html" class="image">
 			<img src="{% link assets/images/gisma-30.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -77,7 +77,7 @@ The focus is on reproducible scientific method training Education in the fields 
 				Courses
 				</p>
 				<ul class="actions">
-					<li><a href="courses.html" class="button">Learn more</a></li>
+					<li><a href="01_course_landing.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
