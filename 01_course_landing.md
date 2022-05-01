@@ -191,11 +191,7 @@ Achtung aufgrund des über 10 Jahre alten Techniken kann es zu fehlerhaften Dars
 			<li><a href="https://gisbsc.gis-ma.org/GISBScL1/de/html/index.html" class="button next"> GIS Modul 2010</a></li>
 				<li><a href="https://minibsc.gis-ma.org/GISBScL1/de/html/index.html" class="button next"> GIS Modul 2011</a></li>
 		</ul>
-		<h4></h4>
-		<ul class="actions">
-			<li><a href="https://gisbsc.gis-ma.org/GISBScL1/de/html/index.html" class="button next"> GIS Modul 2010</a></li>
-				<li><a href="https://minibsc.gis-ma.org/GISBScL1/de/html/index.html" class="button next"> GIS Modul 2011</a></li>
-		</ul>
+
 		
 	</div>
 </section>
