@@ -6,7 +6,11 @@ nav-menu: true
 ---
 
 
-In the AG, no matter which degree you are aiming for (L3-, BSc- and MSc, Diplom), you can write a practice-oriented thesis according to your choice and motivation. Naturally, mainly topics are offered and selected that require significant portions in the application of modern computer-based methods, i.e. data analysis, environmental informatics GI-S, remote sensing and modeling.
+In the AG, no matter which degree you are aiming for, you can write a thesis according to your choice and motivation.
+
+You can be sure that you will be supervised with the same commitment that you put into your own work. 
+
+Naturally, mainly topics are offered and selected that require significant portions in the application of modern computer-based methods, i.e. data analysis, environmental informatics GI-S, remote sensing and modeling.
 
 However, the range of content is very broad and can be extended at any time by the expertise of internal or external colleagues. You are explicitly welcome to contribute and discuss your own topic.
 
@@ -14,7 +18,7 @@ However, the range of content is very broad and can be extended at any time by t
 
 The most important basis is commitment and joy in the (self-imposed) task. Furthermore, you should be willing to prepare an exposé at the beginning of the work, which will serve as a basis for the supervision and outline for the final project. If you take on a given topic, you are expected to approach the question with a certain empathy and to work on the task independently. The conceptual solution proposals for sub-problems and the entire problem should come from you and will be coached and accompanied by the AG.
 
-You can be sure that you will be supervised with the same commitment that you put into your own work. 
+
 
 In addition, you will be systematically networked with other supervisors and fellow students to create a constructive environment for discussion.
 
