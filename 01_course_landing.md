@@ -166,6 +166,47 @@ This course is intended for undergraduate students of geography who have a basic
 		</div>
 	</section>
 
+	<section>
+		<a href="https://gisma-courses.github.io/bsc-systemdynamik/" class="image">
+			<img src="{% link assets/images/sysdyn.png %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>System Dynamics - an introduction
+Simulation of dynamic processes </h3>
+				</header>
+				<p>
+
+				The understanding of spatio-temporal processes, the delineation and modeling of appropriate systems, and the simulation of specific system dynamics are of increasing importance in society and science. Geography, as an interdisciplinary field of science, plays an important role here. Analyses carried out on the basis of models form the basis for gaining knowledge in research. The resulting media and their interpretation are furthermore central means of communication in research but also for decision makers and the formation of social opinion.
+				</p>
+				<ul class="actions">
+					<li><a href="https://gisma-courses.github.io/bsc-systemdynamik/"> <p class="notice--danger">German only | Start Course</p></a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a href="https://gisma-courses.github.io/moer-mpg-envisys-envi-met/" class="image">
+			<img src="{% link assets/images/envimet.png %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Environmental Systems - Microclimate Modeling using ENVI-met </h3>
+				</header>
+				<p>
+
+				Forest ecosystems have highly variable microclimates that are also significantly different from the surrounding climate. In the forest, direct solar radiation and wind speed are greatly reduced leading to the attenuation of extreme climates. The magnitude and more so the processes of these differences especially in a highly structured and relief forest is significant. This course will attempt to predict the spatiotemporal high-resolution heterogeneity of microclimates using the modeling software ENVI-met.
+				https://gisma-courses.github.io/moer-mpg-envisys-envi-met/
+				</p>
+				<ul class="actions">
+					<li><a href="https://gisma-courses.github.io/moer-mpg-envisys-envi-met/" class="button">Start Course</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
 
 
