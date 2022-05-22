@@ -186,7 +186,29 @@ Simulation of dynamic processes </h3>
 			</div>
 		</div>
 	</section>
+	
+	
+	<section>
+		<a href="https://geomoer.github.io/geoAI/" class="image">
+			<img src="{% link assets/images/geoai.png %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>GeoAI - use AI to predict spatial patterns</h3>
+				</header>
+				<p>
 
+				Understanding environmental change and assessing consequences requires spatial information from landscapes. The crucial question is not whether a landscape contains forest, meadow, field, and river, but how they relate to each other spatially. When collecting spatial information in the field, a tradeoff must be made between level of detail, scale, and temporal repetition. Selected processes can either be studied in detail at a very limited number of observation sites or estimated at a generalized scale for a landscape. The constraints loosen when linking local surveys with area-wide remote sensing observations and predicting the locally collected information in space with artificial intelligence methods.
+				</p>
+				<ul class="actions">
+					<li><a href="https://geomoer.github.io/geoAI/"> <p class="notice--danger">German only | Start Course</p></a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	
+	
 	<section>
 		<a href="https://gisma-courses.github.io/moer-mpg-envisys-envi-met/" class="image">
 			<img src="{% link assets/images/envimet.png %}" alt="" data-position="25% 25%" />
@@ -207,6 +229,27 @@ Simulation of dynamic processes </h3>
 			</div>
 		</div>
 	</section>
+
+	<section>
+		<a href="	https://geomoer.github.io/moer-meko/" class="image">
+			<img src="{% link assets/images/meko.png %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Media Competence Environmental Informatics</h3>
+				</header>
+				<p>
+
+Media and models are basic scientific elements of geography. They form the basis for gaining knowledge in research and serve as a means of communication. Media and models are thus primarily not a pedagogical element, but an integral part of a professional examination of a topic.
+				</p>
+				<ul class="actions">
+					<li><a href="	https://geomoer.github.io/moer-meko/"> <p class="notice--danger">German only | Start Course</p></a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	
 </section>
 
 
