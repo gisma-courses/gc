@@ -27,6 +27,7 @@ The responsibility for the content rests with the instructors. Statements, opini
 
 		</p>
 	</div>
+
 </section>
 
 
@@ -34,11 +35,20 @@ The responsibility for the content rests with the instructors. Statements, opini
 
 <!-- NEW -->
 <section id="two" class="spotlights">
+			<div class="inner">
+			<header class="major">
+			<h2>Regular Courses</h2>
+		</header>
+		</div>
 	<section>
+
+
+
 		<a href="https://gisma-courses.github.io/gi-modules/" class="image">
 			<img src="{% link assets/images/gi-modules.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
+
 			<div class="inner">
 				<header class="major">
 					<h3>Gi-Modules</h3>
@@ -54,6 +64,7 @@ The contents are therefore thematically associated but not intended as a closed 
 		</div>
 	</section>
 
+<!-- NEW -->
 
 	<section>
 		<a href="https://gisma-courses.github.io/geoinfo-basis-qgis/" class="image">
@@ -76,7 +87,6 @@ Spatio-temporal data and their manipulation, analysis and representation are bas
 	</section>
 
 <!-- NEW -->
-
 
 	<section>
 		<a href="https://gisma-courses.github.io/LV-uav-workflow/" class="image">
@@ -141,9 +151,6 @@ This course is intended for undergraduate students of geography who have a basic
 		</div>
 	</section>
 
-
-
-
 <!-- NEW -->
 
 	<section>
@@ -165,6 +172,8 @@ This course is intended for undergraduate students of geography who have a basic
 			</div>
 		</div>
 	</section>
+	
+<!-- NEW -->
 
 	<section>
 		<a href="https://gisma-courses.github.io/bsc-systemdynamik/" class="image">
@@ -187,7 +196,8 @@ Simulation of dynamic processes </h3>
 		</div>
 	</section>
 	
-	
+<!-- NEW -->
+
 	<section>
 		<a href="https://geomoer.github.io/geoAI/" class="image">
 			<img src="{% link assets/images/geoai.png %}" alt="" data-position="25% 25%" />
@@ -208,7 +218,8 @@ Simulation of dynamic processes </h3>
 		</div>
 	</section>
 	
-	
+<!-- NEW -->
+
 	<section>
 		<a href="https://gisma-courses.github.io/moer-mpg-envisys-envi-met/" class="image">
 			<img src="{% link assets/images/envimet.png %}" alt="" data-position="25% 25%" />
@@ -229,6 +240,8 @@ Simulation of dynamic processes </h3>
 			</div>
 		</div>
 	</section>
+	
+<!-- NEW -->
 
 	<section>
 		<a href="	https://geomoer.github.io/moer-meko/" class="image">
@@ -249,9 +262,13 @@ Media and models are basic scientific elements of geography. They form the basis
 			</div>
 		</div>
 	</section>
-	
+				<div class="inner">
+			<header class="major">
+			<h2>Irregular Courses</h2>
+		</header>
+		<p> Coming Soon</p>
+		</div>
 </section>
-
 
 
 <!-- Three -->
