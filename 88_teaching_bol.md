@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: The Bologna Syndrome - Deficits and Opportunities 
 description: 'Student workload, fit, teaching capacity, modularization, employability, competence transfer...'
 image: assets/images/gisma-20.jpg
