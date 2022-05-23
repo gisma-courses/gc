@@ -86,9 +86,11 @@ The contents are therefore thematically associated but not intended as a closed 
 				<p>
 
 Spatio-temporal data and their manipulation, analysis and representation are basic scientific elements of geography. The analyses form the basis for gaining knowledge in research and the resulting media are the central means of communication. Data and data analysis, as well as the modeling of these data, are therefore an integral part of professional understanding. The basal handling of data, preparation, visual exploration, analysis, and presentation represents an important core competency for a geographer's job description. This course is the basic GIS course for geographers.
+
 				</p>
 				<ul class="actions">
-					<li><a href="https://gisma-courses.github.io/geoinfo-basis-qgis/" > <p class="notice--danger">German only | Start Course</p></a></li>
+					<li><a href="https://gisma-courses.github.io/geoinfo-basis-qgis/" >
+					<p class="notice--danger">German only | Start Course</p></a></li>
 				</ul>
 			</div>
 		</div>
