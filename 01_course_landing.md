@@ -41,11 +41,19 @@ The responsibility for the content rests with the instructors. Statements, opini
 		</header>
 		</div>
 	<section>
-
-
-
+<style>
+img {
+  display: block;
+  max-width:450px;
+  max-height:450px;
+    justify-content: center;
+  align-items: center;
+  width: auto;
+  height: auto;
+}
+</style>
 		<a href="https://gisma-courses.github.io/gi-modules/" class="image">
-			<img src="{% link assets/images/gi-modules.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/gi-modules.jpg %}"  alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 
