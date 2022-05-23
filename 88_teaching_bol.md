@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Teaching Backgrounds 
+title: The Bologna Syndrome - Deficits and Opportunities 
+description: 'Student workload, fit, teaching capacity, modularization, employability, competence transfer...'
 image: assets/images/gisma-20.jpg
 nav-menu: true
 ---
 
-# The Bologna Syndrome - Deficits and Opportunities
+
 
 Student workload, fit, teaching capacity, modularization, cumulative examination system, contact time, consecutive study programs, credit point system, transcripts of records, learning outcomes, creditability procedures, ECTS, employability, competence transfer, - this not only smells like, but also means standardization, bureaucratization and above all economization of teaching and learning at the university.
 

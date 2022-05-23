@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Theses & Evaluation
+title: Theses & Assessments
+description: 'You will be supervised with the same commitment that you put into your own work'
 image: assets/images/gisma-15.jpg
 nav-menu: true
 ---
 
 
-In the AG, no matter which degree you are aiming for, you can write a thesis according to your choice and motivation.
+In the working group, no matter which degree you are aiming for, you can write a thesis according to your choice and motivation.
 
 You can be sure that you will be supervised with the same commitment that you put into your own work. 
 
