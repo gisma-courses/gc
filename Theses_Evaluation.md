@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Theses & Assessments
 description: 'You will be supervised with the same commitment that you put into your own work'
 image: assets/images/gisma-15.jpg
