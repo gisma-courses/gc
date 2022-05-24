@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Theses & Assessments
-description: 'You will be supervised with the same commitment that you put into your own work'
+description: ''
 image: assets/images/gisma-15.jpg
 nav-menu: true
 ---

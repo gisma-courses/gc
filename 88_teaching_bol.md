@@ -42,9 +42,9 @@ Teaching in the GI-S domain is developed and implemented on this basis. More on 
 
 It is the intention of the learning/teaching modules linked here to make available to geographers and other interested parties access to contemporary methods of spatio-temporal description, analysis, and interpretation of the world.  In the past decade, a rapid development has taken place Besides AI MEthodes and Big Data, complex physical models and the integration of complex spatio-temporal analyses have increasingly become current state of the scientific craft. The road ahead is challenging. The course offerings linked on these pages are guided by the following guiding questions:
 
-* "How can media and geoinformation methods and techniques be integrated, in a professionally adequate manner, into geographic education and scientific application?"
+* How can media and geoinformation methods and techniques be integrated, in a professionally adequate manner, into geographic education and scientific application?
 
-* "How do I acquire sovereign action competences in the field of spatiotemporal abstraction and modeling?".
+* How do I acquire sovereign action competences in the field of spatiotemporal abstraction and modeling?
 
 The didactic design of the various modules is generally oriented toward constructivist learning theory. In contrast to the schooling of the university system resulting from the Bologna process, the courses offered here require a high degree of self-organized and self-motivated learning.
 In general, no distinction is made between the MAster and Bachelor offerings. Both courses are based on a strict orientation towards scientific reproducibility and transparency at the most up-to-date methodological level possible. As far as possible, the learning of methods and modeling skills in geography is project-based. The learning materials made available here serve as a basis for classroom teaching, blended learning approaches as well as self-study. 
