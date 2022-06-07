@@ -11,3 +11,5 @@ The responsibility for the content rests with the instructors. Statements, opini
 
 The course is based on the Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+
+![gisma GitHub stats](https://github-readme-stats.vercel.app/api?username=gisma&show_icons=true)
