@@ -308,8 +308,8 @@ Attention due to the over 10 years old technology, there may be errors in the pr
 
 		</p>
 		<ul class="actions">
-			<li><a href="https://gisbsc.gis-ma.org/GISBScL1/de/html/index.html" > <p class="notice--danger">German only | GIS Modul 2010</p></a></li>
-				<li><a href="https://minibsc.gis-ma.org/GISBScL1/de/html/index.html">  <p class="notice--danger">German only | GIS Modul 2011</p></a></li>
+			<li><a href="http://gisbsc.gis-ma.org/GISBScL1/de/html/index.html" > <p class="notice--danger">German only | GIS Modul 2010</p></a></li>
+				<li><a href="http://minibsc.gis-ma.org/GISBScL1/de/html/index.html">  <p class="notice--danger">German only | GIS Modul 2011</p></a></li>
 		</ul>
 
 		
