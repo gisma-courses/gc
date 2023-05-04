@@ -49,6 +49,11 @@ It is the intention of the learning/teaching modules linked here to make availab
 The didactic design of the various modules is generally oriented toward constructivist learning theory. In contrast to the schooling of the university system resulting from the Bologna process, the courses offered here require a high degree of self-organized and self-motivated learning.
 In general, no distinction is made between the MAster and Bachelor offerings. Both courses are based on a strict orientation towards scientific reproducibility and transparency at the most up-to-date methodological level possible. As far as possible, the learning of methods and modeling skills in geography is project-based. The learning materials made available here serve as a basis for classroom teaching, blended learning approaches as well as self-study. 
 
+# Personal View as a Teacher 
+
+My self-image as a science teacher is that of a coach. I can't climb a mountain or run a marathon for you. You can only achieve and train for that yourself. I can be a sounding board, an advisor, and a source of constructive criticism. As a climber you have to climb yourself, you have to know that. 
+If the course, if every course, is to be useful, if it is to be useful in the classical sense, then you have to reflect critically on what you hear, what you see, what you read and what you learn.  Only then is development possible, and development is the goal of all education. This truism cannot be repeated often enough: you only get as much out of education as you put into it.
+And if you don't put in more than just being present or absorbing the content, then it's a waste of time - your time. If you want to stand on the shoulders of the giants, you have to make an effort: think, reflect and discuss, experience and compare, and develop your own way of working.
 
 ## References
 
