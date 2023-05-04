@@ -3,7 +3,7 @@ title: gisma-courses
 subtitle: gisma spatial science ressources
 email: reudenbach@uni-marburg.de
 description: The Landing Page for all kinds of teaching and blogs about wild spaces <br> released under the Creative Commons.
-baseurl: "/gc" # the subpath of your site, e.g. /blog
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: https://gisma-courses.github.io/ # the base hostname & protocol for your site
 author: Chris Reudenbach
 street_address: Deutschhaustr. 10
