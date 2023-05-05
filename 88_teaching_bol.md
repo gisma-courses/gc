@@ -12,7 +12,7 @@ Student workload, fit, teaching capacity, modularization, cumulative examination
 
 And yet there are also opportunities and scope if they are actively used. The Bologna Process focuses more strongly on the needs of students. Ultimately, in the economized university education, the balancing act between vocational training and scientific specialized education must be achieved. The much-cited and hardly understood competence-centered modular teaching and learning offers the leeway not to lose sight of the Humboldtian ideal of education and yet to do justice to the necessity of practice-oriented, application-related and science-ethically justified education.
 
-## Development of competencies
+# Development of competencies
 
 Against the background of a competence-oriented education, it is not easy to formulate the teaching and learning objectives in a catchy way. However, the following are perhaps the most important aspects:
 
@@ -22,7 +22,7 @@ Against the background of a competence-oriented education, it is not easy to for
 * Promotion of autonomous, personal development especially with regard to the further development of personal and 
 social-communicative competence
 
-## Problems versus solutions
+# Problems versus solutions
 
 In pedagogy as well as in didactics, there has been a shift in recent decades from the object of learning to the subject of learning. Learners are no longer seen as passive or active recipients, but as active constructors accompanied by crises. Here, an authentic problem orientation plays a decisive role for a successful learning environment. In the best case, the teaching focuses on questions that have meaning for the learners, that make them curious and/or concerned.
 
