@@ -51,10 +51,8 @@ In general, no distinction is made between the MAster and Bachelor offerings. Bo
 
 # My Personal View as a Teacher 
 
-My self-image as a science teacher is that of a coach. I can't climb a mountain or run a marathon for you. You can only achieve and train for that yourself. I can be a sounding board, an advisor, and a source of constructive criticism. As a climber you have to climb yourself, you have to know that. 
-If the course, if every course, is to be useful, if it is to be useful in the classical sense, then you have to reflect critically on what you hear, what you see, what you read and what you learn.  Only then is development possible, and development is the goal of all education. This truism cannot be repeated often enough: you only get as much out of education as you put into it.
-And if you don't put in more than just being present or absorbing the content, then it's a waste of time - your time. If you want to stand on the shoulders of the giants, you have to make an effort: think, reflect and discuss, experience and compare, and develop your own way of working.
-
+My self-image as a science teacher is that of a coach. I cannot climb a mountain or run a marathon for you. You can only do that yourself and train for it. I can be a coach, an advisor and a constructive critic. As a climber you have to climb yourself, you know that and you just have to do it. 
+If this course is to be useful, then you must critically reflect on what I bring, what you learn in discussion with your colleagues, what you read and what you believe you have safely learned.  Only then is development possible, and development is the goal of all education.It cannot be said often enough: Education is only what you put into it. That is, if you don't do much more than just be there, then it is a waste of time for you. If you want to stand on the shoulders of the greats, you have to make an effort: think, reflect and discuss, gather and compare experiences, develop your own way of working.
 ## References
 
 Ammoneit, R., Reudenbach, C. & Peter, C. (2021): Selbstorganisation von Trampelpfaden im Raum modellierend erfassen – Eine komplexe Aufgabe für Studierende. In: Fögele, J.,  & N. Raschke (Hrsg.): Die Geographie in der schulischen Praxis stärken. Abstractband zum HGD‐Symposium 2020 in Gießen
