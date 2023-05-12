@@ -75,8 +75,9 @@ The contents are therefore thematically associated but not intended as a closed 
 <!-- NEW -->
 
 	<section>
-		
-		<a href="https://gisma-courses.github.io/geoinfo-basis-qgis/"><img src="assets/images/geoinfo.png alt="HTML tutorial" style="width:42px;height:42px;"></a>
+		<a href="https://gisma-courses.github.io/geoinfo-basis-qgis/" class="image">
+			<img src= "{% link assets/images/geoinfo.png %}" alt="" data-position="top center" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
