@@ -66,7 +66,7 @@ The focus is on reproducible scientific method training Education in the fields 
 
 	<section>
 		<a href="01_course_landing.html" class="image">
-			<img src="{% link /assets/images/gisma-30.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link https://github.com/gisma-courses/gc/blob/master/assets/images/gisma-30.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
