@@ -52,7 +52,7 @@ img {
   height: auto;
 }
 </style>
-		<a href="https://gisma-courses.github.io/gi-modules/" >
+		<a href="https://gisma-courses.github.io/gi-modules/" class="image">
 			<img src="{% link assets/images/gi-modules.jpg %}"  alt="" data-position="15% 15%" >
 		</a> 
 	
@@ -76,7 +76,7 @@ The contents are therefore thematically associated but not intended as a closed 
 <!-- NEW -->
 
 	<section>
-		<a href="https://gisma-courses.github.io/geoinfo-basis-qgis/" >
+		<a href="https://gisma-courses.github.io/geoinfo-basis-qgis/" class="image">
 			<img src= "{% link assets/images/geoinfo.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
