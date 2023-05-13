@@ -52,11 +52,11 @@ img {
   height: auto;
 }
 </style>
-		<a href="https://gisma-courses.github.io/gi-modules/" class="image">
-			<img src="{{site.url}}/assets/images/gi-modules.png %}"  alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-
+		<a href="https://gisma-courses.github.io/gi-modules/" >
+		</a> 
+		<img src="{% link assets/images/gi-modules.png %}"  alt="" data-position="15% 15%" />
+			<div class="content">
+	
 			<div class="inner">
 				<header class="major">
 					<h3>Gi-Modules</h3>
