@@ -53,7 +53,7 @@ img {
 }
 </style>
 		<a href="https://gisma-courses.github.io/gi-modules/" class="image">
-			<img src="{% link assets/images/gi-modules.jpg %}"  alt="" data-position="15% 15%" >
+			<img src="assets/images/gi-modules.jpg"  alt="" >
 		</a> 
 	
 			<div class="content">
@@ -102,7 +102,7 @@ Spatio-temporal data and their manipulation, analysis and representation are bas
 
 	<section>
 		<a href="https://gisma-courses.github.io/LV-uav-workflow/" class="image">
-			<img src="{% link assets/images/LV-UAV-Guide.jpg %}" alt="" data-position="center center" />
+			<img src="assets/images/LV-UAV-Guide.jpg" alt=""  />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -124,7 +124,7 @@ This course is designed for students of all levels who have a basic knowledge of
 
 	<section>
 		<a href="https://gisma-courses.github.io/LV-19-050-007/" class="image">
-			<img src="{% link assets/images/LV-19-050-007.jpg %}" alt="" data-position="top center" />
+			<img src="assets/images/LV-19-050-007.jpg" alt="" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -146,7 +146,7 @@ This course is intended for undergraduate students of geography who have a basic
 
 	<section>
 		<a href="https://gisma-courses.github.io/LV-19-d19-006/" class="image">
-			<img src="{% link assets/images/LV-19-d19-006.png %}" alt="" data-position="25% 25%" />
+			<img src="assets/images/LV-19-d19-006.png" alt=""  />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -189,7 +189,7 @@ This course is intended for undergraduate students of geography who have a basic
 
 	<section>
 		<a href="https://gisma-courses.github.io/bsc-systemdynamik/" class="image">
-			<img src="{% link assets/images/sysdyn.png %}" alt="" data-position="25% 25%" />
+			<img src="assets/images/sysdyn.png" alt=""  />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -212,7 +212,7 @@ Simulation of dynamic processes </h3>
 
 	<section>
 		<a href="https://geomoer.github.io/geoAI/" class="image">
-			<img src="{% link assets/images/geoai.png %}" alt="" data-position="25% 25%" />
+			<img src="assets/images/geoai.png" alt=""  />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -234,7 +234,7 @@ Simulation of dynamic processes </h3>
 
 	<section>
 		<a href="https://gisma-courses.github.io/moer-mpg-envisys-envi-met/" class="image">
-			<img src="{% link assets/images/envimet.png %}" alt="" data-position="25% 25%" />
+			<img src="assets/images/envimet.png" alt=""  />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -257,7 +257,7 @@ Simulation of dynamic processes </h3>
 
 	<section>
 		<a href="	https://geomoer.github.io/moer-meko/" class="image">
-			<img src="{% link assets/images/meko.png %}" alt="" data-position="25% 25%" />
+			<img src="assets/images/meko.png" alt=""  />
 		</a>
 		<div class="content">
 			<div class="inner">
