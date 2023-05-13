@@ -54,7 +54,7 @@ img {
 </style>
 		<a href="https://gisma-courses.github.io/gi-modules/" >
 		</a> 
-		<img src="{% link assets/images/gi-modules.png %}"  alt="" data-position="15% 15%" />
+		<img src="{% link assets/images/gi-modules.png %}"  alt="" data-position="15% 1 >
 			<div class="content">
 	
 			<div class="inner">
@@ -75,7 +75,7 @@ The contents are therefore thematically associated but not intended as a closed 
 <!-- NEW -->
 
 	<section>
-		<a href="https://gisma-courses.github.io/geoinfo-basis-qgis/" class="image">
+		<a href="https://gisma-courses.github.io/geoinfo-basis-qgis/" >
 			<img src= "{% link assets/images/geoinfo.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
