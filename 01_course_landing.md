@@ -75,14 +75,15 @@ The contents are therefore thematically associated but not intended as a closed 
 
 <!-- NEW -->
 
-<section>
-		<a href="https://gisma-courses.github.io/r-spatial-econometry-basics/" class="image">
-			<img src="assets/images/econ.png" alt=""  />
+
+	<section>
+		<a href="https://gisma-courses.github.io/geoinfo-basis-qgis/" class="image">
+			<img src= "assets/images/geoinfo.jpg" alt="" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Big Data and Spatial Econometrics </h3>
+					<h3>Basic geoinformatics course(QGIS)</h3>
 				</header>
 				<p>
 
