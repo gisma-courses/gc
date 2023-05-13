@@ -76,7 +76,7 @@ The contents are therefore thematically associated but not intended as a closed 
 
 	<section>
 		<a href="https://gisma-courses.github.io/geoinfo-basis-qgis/" class="image">
-			<img src= "{% link assets/images/geoinfo.png %}" alt="" data-position="top center" />
+			<img src= "{% link assets/images/geoinfo.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -165,7 +165,7 @@ This course is intended for undergraduate students of geography who have a basic
 
 	<section>
 		<a href="https://gisma-courses.github.io/r-spatial-econometry-basics/" class="image">
-			<img src="{% link assets/images/econ.png %}" alt="" data-position="25% 25%" />
+			<img src="assets/images/econ.png" alt=""  />
 		</a>
 		<div class="content">
 			<div class="inner">
