@@ -28,7 +28,7 @@ The focus is on reproducible scientific method training Education in the fields 
 <section id="two" class="spotlights">
 	<section>
 		<a href="88_teaching_bol.html" class="image">
-			<img src="assets/images/gisma-13.jpg %}" alt="" data-position="center center" />
+			<img src="assets/images/gisma-13.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
