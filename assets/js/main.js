@@ -154,7 +154,7 @@
 							$image.css('background-position', x);
 
 					// Hide original.
-						$image.hide();
+				//		$image.hide();
 
 				// Link.
 					if ($link.length > 0) {

@@ -53,7 +53,7 @@ img {
 }
 </style>
 		<a href="https://gisma-courses.github.io/gi-modules/" >
-			<img src="{% link {{site.url}}{{site.baseurl}}/assets/images/gi-modules.png %}"  alt="" data-position="15% 15%" >
+			<img src="{% link assets/images/gi-modules.jpg %}"  alt="" data-position="15% 15%" >
 		</a> 
 	
 			<div class="content">
