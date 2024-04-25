@@ -56,6 +56,8 @@ If this course is to be useful, then you must critically reflect on what I bring
 
 ## References
 
+Ammoneit, R. Reudenbach, C. & Peter, C. (2023). Developing geographic computer modeling competencies in higher education. Journal of Geography in Higher Education, p. 1-23; DOI: 10.1080/03098265.2023.2250991
+
 Ammoneit, R., Reudenbach, C. & Peter, C. (2021): Selbstorganisation von Trampelpfaden im Raum modellierend erfassen – Eine komplexe Aufgabe für Studierende. In: Fögele, J.,  & N. Raschke (Hrsg.): Die Geographie in der schulischen Praxis stärken. Abstractband zum HGD‐Symposium 2020 in Gießen
 
 Ammoneit, R. Reudenbach, C., Turek, A., Nauß, T. & Peter, C. (2019). Geographische Modellierkompetenz - Modellierung von Raum konzeptualisieren. In: GW-Unterricht. 156, S. 19-29. [online](https://doi.org/10.1553/gw-unterricht156s19).

@@ -224,7 +224,7 @@ Simulation of dynamic processes </h3>
 				Understanding environmental change and assessing consequences requires spatial information from landscapes. The crucial question is not whether a landscape contains forest, meadow, field, and river, but how they relate to each other spatially. When collecting spatial information in the field, a tradeoff must be made between level of detail, scale, and temporal repetition. Selected processes can either be studied in detail at a very limited number of observation sites or estimated at a generalized scale for a landscape. The constraints loosen when linking local surveys with area-wide remote sensing observations and predicting the locally collected information in space with artificial intelligence methods.
 				</p>
 				<ul class="actions">
-					<li><a href="https://geomoer.github.io/geoAI/"> <p class="notice--danger">German only | Start Course</p></a></li>
+					<li><a href="https://geomoer.github.io/geoAI/" class="button">Start Course</a></li>
 				</ul>
 			</div>
 		</div>
@@ -274,7 +274,7 @@ Media and models are basic scientific elements of geography. They form the basis
 			</div>
 		</div>
 	</section>
-	
+<!-- NEW -->	
 		<section>
 		<a href="https://ogerhub.github.io/aslo/" class="image">
 			<img src="https://ogerhub.github.io/aslo/images/banneraslo.png" alt=""  />
