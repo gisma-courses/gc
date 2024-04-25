@@ -274,6 +274,27 @@ Media and models are basic scientific elements of geography. They form the basis
 			</div>
 		</div>
 	</section>
+	
+		<section>
+		<a href="https://ogerhub.github.io/aslo/" class="image">
+			<img src="https://ogerhub.github.io/aslo/images/banneraslo.png" alt=""  />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3> Extracurricular learning locations (Ausserschulische Lernorte AsLo)</h3>
+				</header>
+				<p>
+Extracurricular learning locations allow the direct processing of geographical subject matter in real space. In this module, you will develop learning locations that are resilient, adaptive, vulnerable or mal-adaptive in terms of climate change education and work out what this means for the space. Based on the thematic development, you will carry out a methodical elaboration so that you can transfer the content into a 60-minute excursion and achieve knowledge transfer and awareness-raising for the local conditions. 
+				</p>
+				<ul class="actions">
+					<li><a href="https://ogerhub.github.io/aslo/"> <p class="notice--danger">German only | Start Course</p></a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+<!-- NEW -->
 				<div class="inner">
 			<header class="major">
 			<h2>Irregular Courses</h2>
@@ -282,26 +303,7 @@ Media and models are basic scientific elements of geography. They form the basis
 		</div>
 </section>
 
-	<section>
-		<a href="https://ogerhub.github.io/aslo/" class="image">
-			<img src="images/banneraslo.png" alt=""  />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>LV-19-d19-006 - Ausserschuilische Lernorte (AsLo</h3>
-				</header>
-				<p>
-Extracurricular learning locations allow the direct processing of geographical subject matter in real space. In this module, you will develop learning locations that are resilient, adaptive, vulnerable or mal-adaptive in terms of climate change education and work out what this means for the space. Based on the thematic development, you will carry out a methodical elaboration so that you can transfer the content into a 60-minute excursion and achieve knowledge transfer and sensitisation for the local conditions. 
-				</p>
-				<ul class="actions">
-					<li><a href="https://ogerhub.github.io/aslo/" class="button">Start Course</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
 
-<!-- NEW -->
 
 <!-- Three -->
 <section id="three">
