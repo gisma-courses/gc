@@ -25,7 +25,7 @@ img {
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>About the  gisma courses</h1>
+			<h1>About gisma courses</h1>
 		</header>
 		<p>
 The courses are all regular courses in the Bachelor's and Master's programmes in Geography at the University of Marburg. These courses are offered by the Geoinformation Science Lab Marburg (gisma), which provides access to various teaching and research contents of the working group Spatial Science Resources at the <a href="https://www.uni-marburg.de/en/fb19"> Department of Geography </a>,<a href="https://www.uni-marburg.de/en"> Marburg University  </a>.
