@@ -25,7 +25,7 @@ img {
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>About</h1>
+			<h1>About the  gisma courses</h1>
 		</header>
 		<p>
 The courses are all regular courses in the Bachelor's and Master's programmes in Geography at the University of Marburg. These courses are offered by the Geoinformation Science Lab Marburg (gisma), which provides access to various teaching and research contents of the working group Spatial Science Resources at the <a href="https://www.uni-marburg.de/en/fb19"> Department of Geography </a>,<a href="https://www.uni-marburg.de/en"> Marburg University  </a>.
@@ -51,6 +51,29 @@ The responsibility for the content rests with the instructors. Statements, opini
 		</header>
 		</div>
 
+	<section>
+		<a href="https://gisma-courses.github.io/EON2024/" class="image">
+			<img src= "assets/images/eon.png" alt="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Geoinformatics methods - Summerschool Remote Sensing Forest Monitoring Harz (QGIS)</h3>
+				</header>
+				<p>
+
+Remote Sensing Forest Monitoring Harz is a one-week summer school as an interdisciplinary workshop in which students of Forest Sciences from Göttingen and Geography (B.Sc. and M.Sc. Physical Geography) from Marburg work together. The aim is to use remote sensing techniques such as satellite data, UAV flights, terrestrial LiDAR data acquisition and microclimate detection using LoRa sensors for monitoring forest ecosystems. The workshop will include guided tours of the national park, input sessions on remote sensing data analysis and work on individual projects in small groups composed of participants from the different study programmes. 
+
+				</p>
+				<ul class="actions">
+					<li><a href="https://gisma-courses.github.io/EON2024/" >
+					<p class="notice--danger">German only | Start Course</p></a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+<!-- NEW -->
 
 
 	<section>
