@@ -16,10 +16,10 @@ nav-menu: true
 			<h2>About</h2>
 		</header>
 		<p>
-		The Geoinformation Science Lab Marburg (gisma) provides access to different teaching and research contents of the spatial science resources working group at the <a href="https://www.uni-marburg.de/en/fb19"> Department of Geography </a>,<a href="https://www.uni-marburg.de/en"> Philipps-University Marburg </a>.  
+The Geoinformation Science Lab Marburg (gisma) provides access to various teaching and research contents of the working group Spatial Science Resources at the University of Marburg. <a href="https://www.uni-marburg.de/en/fb19"> Department of Geography </a>,<a href="https://www.uni-marburg.de/en"> Philipps-University Marburg </a>.  
 		<br><br>
-The main goal of this entry page is to make geoinformational concepts and content available in different formats - from blog posts to single turorials to complete courses.
-The focus is on reproducible scientific method training Education in the fields of environmental informatics, GIS remote sensing and modeling.
+The main goal of this site is to make geoinformatics concepts and content available in different formats - from blog posts to single tutorials to complete courses.
+The focus is on reproducible training in the scientific method in the fields of environmental informatics, GIS remote sensing and modelling.
 		</p>
 	</div>
 </section>
@@ -27,7 +27,7 @@ The focus is on reproducible scientific method training Education in the fields 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="88_teaching_bol.html" class="image">
+		<a href="teaching.html" class="image">
 			<img src="assets/images/gisma-13.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -36,10 +36,10 @@ The focus is on reproducible scientific method training Education in the fields 
 					<h3>Teaching backgrounds</h3>
 				</header>
 				<p>
-				In pedagogy, there has been a shift in recent decades from the object of learning to the subject of learning. Learners are no longer seen as passive or active recipients, but as active constructors accompanied by crises. Here, an authentic problem orientation plays a decisive role for a successful learning environment. In the best case, the teaching focuses on questions that have meaning for the learners, that make them curious and/or concerned.
+				In recent decades there has been a shift in pedagogy from the object of learning to the subject of learning. Learners are no longer seen as passive or active recipients, but as active constructors, accompanied by crises. An authentic problem orientation plays a crucial role in a successful learning environment. In the best case, teaching focuses on questions that are meaningful to the learners, that make them curious and/or concerned.
 				</p>
 				<ul class="actions">
-					<li><a href="88_teaching_bol.html" class="button">Learn more</a></li>
+					<li><a href="teaching.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -54,7 +54,7 @@ The focus is on reproducible scientific method training Education in the fields 
 					<h3>Theses & Evaluation</h3>
 				</header>
 				<p>
-				The most important basis is commitment and joy in the (self-imposed) task. Furthermore, you should be willing to prepare an exposé at the beginning of the work, which will serve as a basis for the supervision and outline for the final project. You can be sure that you will be supervised with the same commitment that you put into your own work. 
+				The most important basis is commitment and enjoyment of the (self-imposed) task. You should also be prepared to write an exposé at the beginning of your work, which will serve as a basis for supervision and as an outline for the final project. You can be sure that you will be supervised with the same commitment that you put into your own work. 
 				</p>
 				<ul class="actions">
 					<li><a href="Theses_Evaluation.html" class="button">Learn more</a></li>
