@@ -9,17 +9,6 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>About</h2>
-		</header>
-		<p>
-		The Geoinformation Science Lab Marburg (gisma) provides access to different Data Sets and Software Products
-		</p>
-	</div>
-</section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -42,7 +31,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="uavdata.html" class="image">
+		<a href="http://137.248.191.201:5000/r/uav" class="image">
 			<img src="{% link assets/images/remsens.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -54,7 +43,7 @@ nav-menu: true
 				Since 2016, image and measurement data has been collected using drone flights as part of research and teaching, and as this involves large amounts of data, making it available via the internet is associated with some problems. The currently processed data is made available for viewing and downloading on the temporary web database droneDB. 
 				</p>
 				<ul class="actions">
-					<li><a href="uavdata.html" class="button">Learn more</a></li>
+					<li><a href="http://137.248.191.201:5000/r/uav" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -98,6 +87,4 @@ nav-menu: true
 -->
 </div>
 
--  [link2GI](https://r-spatial.github.io/link2GI/)
--  [uavRmp](https://gisma.github.io/uavRmp/)
--  [Metashape Tools](https://github.com/gisma/MetashapeTools)
+
