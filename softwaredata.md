@@ -42,7 +42,7 @@ img {
 	</section>
 	<section>
 		<a href="http://137.248.191.201:5000/r/uav" class="image">
-			<img src="{% link assets/images/remsens.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/dji.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -62,7 +62,7 @@ img {
 
 	<section>
 		<a href="software.html" class="image">
-			<img src="{% link assets/images/gisma-30.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/code.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
