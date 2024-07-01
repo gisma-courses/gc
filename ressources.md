@@ -51,10 +51,10 @@ nav-menu: true
 					<h3>UAV Data sets</h3>
 				</header>
 				<p>
-				The most important basis is commitment and joy in the (self-imposed) task. Furthermore, you should be willing to prepare an exposé at the beginning of the work, which will serve as a basis for the supervision and outline for the final project. You can be sure that you will be supervised with the same commitment that you put into your own work. 
+				Since 2016, image and measurement data has been collected using drone flights as part of research and teaching, and as this involves large amounts of data, making it available via the internet is associated with some problems. The currently processed data is made available for viewing and downloading on the temporary web database droneDB. 
 				</p>
 				<ul class="actions">
-					<li><a href="Theses_Evaluation.html" class="button">Learn more</a></li>
+					<li><a href="uavdata.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
