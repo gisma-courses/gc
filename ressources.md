@@ -1,5 +1,5 @@
 ---
-title: Software and Data Ressources
+title: Software and Data 
 layout: landing
 description: 'UAV Data and Software Tools provides by Geoinformation Science Lab Marburg'
 image: assets/images/climatroof-sp.2.jpg
@@ -43,7 +43,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="uavdata.html" class="image">
-			<img src="{% link assets/images/gisma-55.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/remsens.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
