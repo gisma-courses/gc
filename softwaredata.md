@@ -5,7 +5,17 @@ description: 'UAV Data and Software Tools provides by Geoinformation Science Lab
 image: assets/images/climatroof-sp.2.jpg
 nav-menu: true
 ---
-
+<style>
+img {
+  display: block;
+  max-width:450px;
+  max-height:450px;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: auto;
+}
+</style>
 <!-- Main -->
 <div id="main">
 
@@ -61,6 +71,10 @@ nav-menu: true
 				</header>
 				<p>
 				The software developed essentially consists of packages with specific functionalities and collections of scripts and tools.
+				
+-  [link2GI](https://r-spatial.github.io/link2GI/)
+-  [uavRmp](https://gisma.github.io/uavRmp/)
+-  [Metashape Tools](https://github.com/gisma/MetashapeTools)
 				
 				</p>
 				<ul class="actions">
