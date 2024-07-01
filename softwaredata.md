@@ -70,18 +70,17 @@ img {
 					<h3>Software</h3>
 				</header>
 				<p>
-				The software developed essentially consists of packages with specific functionalities and collections of scripts and tools.
+				The software listed here are the currently maintained R packages and scripts.
 	<ul >
 					<li><a href="https://r-spatial.github.io/link2GI/"> link2GI</a></li>
 					<li><a href="https://gisma.github.io/uavRmp/"> uavRmp</a></li>
 					<li><a href="https://github.com/gisma/MetashapeTools"> Metashape Tools</a></li>
 				</ul>		
->  
 
-				
+
 				</p>
 				<ul class="actions">
-					<li><a href="" class="button">Learn more</a></li>
+					<li><a href="https://github.com/gisma?tab=repositories" class="button">Learn more at GitHub</a> </li>
 				</ul>
 			</div>
 		</div>
