@@ -62,19 +62,19 @@ nav-menu: true
 
 
 	<section>
-		<a href="01_course_landing.html" class="image">
+		<a href="software.html" class="image">
 			<img src="{% link assets/images/gisma-30.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Courses</h3>
+					<h3>Software</h3>
 				</header>
 				<p>
-				Courses
+				The software developed essentially consists of packages with specific functionalities and collections of scripts and tools.
 				</p>
 				<ul class="actions">
-					<li><a href="01_course_landing.html" class="button">Learn more</a></li>
+					<li><a href="software.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
