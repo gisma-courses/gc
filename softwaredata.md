@@ -61,7 +61,7 @@ img {
 
 
 	<section>
-		<a href="software.html" class="image">
+		<a href="" class="image">
 			<img src="{% link assets/images/code.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -71,14 +71,16 @@ img {
 				</header>
 				<p>
 				The software developed essentially consists of packages with specific functionalities and collections of scripts and tools.
-				
--  [link2GI](https://r-spatial.github.io/link2GI/)
--  [uavRmp](https://gisma.github.io/uavRmp/)
--  [Metashape Tools](https://github.com/gisma/MetashapeTools)
+	<ul class="actions">
+					<li><a href="https://r-spatial.github.io/link2GI/" class="link2GI</a></li>
+					<li><a href="https://gisma.github.io/uavRmp/" class="uavRmp</a></li>
+					<li><a href="https://github.com/gisma/MetashapeTools" class="Metashape Tools</a></li>
+				</ul>		
+
 				
 				</p>
 				<ul class="actions">
-					<li><a href="software.html" class="button">Learn more</a></li>
+					<li><a href="" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
