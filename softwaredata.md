@@ -71,11 +71,12 @@ img {
 				</header>
 				<p>
 				The software developed essentially consists of packages with specific functionalities and collections of scripts and tools.
-	<ul class="actions">
-					<li><a href="https://r-spatial.github.io/link2GI/" class="link2GI</a></li>
-					<li><a href="https://gisma.github.io/uavRmp/" class="uavRmp</a></li>
-					<li><a href="https://github.com/gisma/MetashapeTools" class="Metashape Tools</a></li>
+	<ul >
+					<li><a href="https://r-spatial.github.io/link2GI/"> link2GI</a></li>
+					<li><a href="https://gisma.github.io/uavRmp/"> uavRmp</a></li>
+					<li><a href="https://github.com/gisma/MetashapeTools"> Metashape Tools</a></li>
 				</ul>		
+>  
 
 				
 				</p>
