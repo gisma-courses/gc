@@ -91,7 +91,7 @@ Spatial and temporal data and their manipulation, analysis and representation ar
 
 				</p>
 				<ul class="actions">
-					<li><a href="https://gisma-courses.github.io/geoinfo-basis-qgis/" >
+					<li><a href="https://gisma-courses.github.io/gc-geoinfo/" >
 					<p class="notice--danger">German only | Start Course</p></a></li>
 				</ul>
 			</div>
