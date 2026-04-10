@@ -38,7 +38,7 @@ The directed transfer of knowledge is now only one aspect of higher education. I
 
 Teaching in the GI-S area is developed and implemented on this basis. More on this topic can be found in the following literature.
 
-# Learning content
+# Learning contentAmmoneit, R., Reudenbach, C., & Peter, C. (2021). Selbstorganisation von Trampelpfaden im Raum modellierend erfassen – Eine komplexe Aufgabe für Studierende. In J. Fögele, R. Mehren, A. Oberrauch, & N. Raschke (Hrsg.), Die Geographie in der schulischen Praxis stärken: Abstractband zum HGD-Symposium 2020 in Gießen (S. 11–12). Universität Gießen
 
 The aim of the learning and teaching modules linked here is to provide geographers and other interested parties with access to contemporary methods of spatio-temporal description, analysis and interpretation of the world.  The last decade has seen a rapid evolution in which, alongside AI methods and big data, complex physical models and the integration of complex spatio-temporal analysis have increasingly become state of the art. The road ahead is challenging. The course offerings linked on these pages are guided by the following guiding questions:
 
@@ -56,16 +56,16 @@ If this course is to be useful, you will need to reflect critically on what I br
 
 ## References
 
-Ammoneit, Rieke; Reudenbach, Christoph: Ist BNE im Geographieunterricht zukunftsweisend? Plädoyer für eine adaptionsorientierte Klimabildung. - In: GW-Unterricht, (2024) 174, S. 43-55, [URL:](https://doi.org/10.1553/gw-unterricht174s43) - ISSN: 2077-1517; 2414-4169 - ISBN: 978-3-7001-9701-0
+Ammoneit, Rieke; Reudenbach, Christoph: Ist BNE im Geographieunterricht zukunftsweisend? Plädoyer für eine adaptionsorientierte Klimabildung. - In: GW-Unterricht, (2024) 174, S. 43-55, [URL: https://doi.org/10.1553/gw-unterricht174s43](https://doi.org/10.1553/gw-unterricht174s43) - ISSN: 2077-1517; 2414-4169 - ISBN: 978-3-7001-9701-0
 
-Ammoneit, Rieke, Christoph Reudenbach and Carina Peter. “Developing geographic computer modeling competencies in higher education.” Journal of Geography in Higher Education 48 (2023): 345 - 367. DOI: 10.1080/03098265.2023.2250991. [URL:](https://doi.org/10.1080/03098265.2023.2250991)
+Ammoneit, Rieke, Christoph Reudenbach and Carina Peter. “Developing geographic computer modeling competencies in higher education.” Journal of Geography in Higher Education 48 (2023): 345 - 367. DOI: 10.1080/03098265.2023.2250991. [URL: https://doi.org/10.1080/03098265.2023.2250991](https://doi.org/10.1080/03098265.2023.2250991)
 
 Ammoneit, R., Reudenbach, C., & Peter, C. (2021). Selbstorganisation von Trampelpfaden im Raum modellierend erfassen – Eine komplexe Aufgabe für Studierende. In J. Fögele, R. Mehren, A. Oberrauch, & N. Raschke (Hrsg.), Die Geographie in der schulischen Praxis stärken: Abstractband zum HGD-Symposium 2020 in Gießen (S. 11–12). Universität Gießen.
 
-Ammoneit, R. Reudenbach, C., Turek, A., Nauß, T. & Peter, C. (2019). Geographische Modellierkompetenz - Modellierung von Raum konzeptualisieren. In: GW-Unterricht. 156, S. 19-29. [URL:](https://doi.org/10.1553/gw-unterricht156s19)
+Ammoneit, R. Reudenbach, C., Turek, A., Nauß, T. & Peter, C. (2019). Geographische Modellierkompetenz - Modellierung von Raum konzeptualisieren. In: GW-Unterricht. 156, S. 19-29. [URL: https://doi.org/10.1553/gw-unterricht156s19](https://doi.org/10.1553/gw-unterricht156s19)
 URL:
-Schulze, U.; Kanwischer, D. & Reudenbach, C. (2013): Essential competences for GIS learning in higher education: a synthesis of international curricular documents in the GIS&T domain. Journal of Geography in Higher Education 37 (2), 257-275. DOI: 10.1080/03098265.2012.763162. [URL:](https://www.tandfonline.com/doi/full/10.1080/03098265.2012.763162)
+Schulze, U.; Kanwischer, D. & Reudenbach, C. (2013): Essential competences for GIS learning in higher education: a synthesis of international curricular documents in the GIS&T domain. Journal of Geography in Higher Education 37 (2), 257-275. DOI: 10.1080/03098265.2012.763162. [URL: https://www.tandfonline.com/doi/full/10.1080/03098265.2012.763162](https://www.tandfonline.com/doi/full/10.1080/03098265.2012.763162)
 
 Schulze, U.; Kanwischer, D.; Reudenbach, C. (2012): Technikzentrierte Softwareschulung und/oder problemorientierte Denkweise? Theoretische Überlegungen und didaktische Analysen zur geographischen GIS-Ausbildung. In: Hüttermann, A.; Kirchner, P.; Schuler, S.; Drieling, K. (Hrsg.): Räumliche Orientierung. Räumliche Orientierung, Karten und Geoinformation im Unterricht. Braunschweig: Westermann, S. 299–307.
 
-Schulze, U., Kanwischer, D., & Reudenbach, C. (2010). Bologna – Gefahr oder Chance? Ein Praxisbericht aus der geographischen Hochschullehre zum kompetenzorientierten Lernen mit Geoinformation. Das Hochschulwesen, 58(6), 205–212. [URL:](https://www.hochschulwesen.info/inhalte/hsw-6-2010.pdf)
+Schulze, U., Kanwischer, D., & Reudenbach, C. (2010). Bologna – Gefahr oder Chance? Ein Praxisbericht aus der geographischen Hochschullehre zum kompetenzorientierten Lernen mit Geoinformation. Das Hochschulwesen, 58(6), 205–212. [URL: https://www.hochschulwesen.info/inhalte/hsw-6-2010.pdf](https://www.hochschulwesen.info/inhalte/hsw-6-2010.pdf)
