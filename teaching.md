@@ -66,6 +66,6 @@ Ammoneit, R. Reudenbach, C., Turek, A., Nauß, T. & Peter, C. (2019). Geographis
 
 Schulze, U.; Kanwischer, D. & Reudenbach, C. (2013): Essential competences for GIS learning in higher education: a synthesis of international curricular documents in the GIS&T domain. Journal of Geography in Higher Education 37 (2), 257-275. DOI: 10.1080/03098265.2012.763162. URL: https://www.tandfonline.com/doi/full/10.1080/03098265.2012.763162
 
-Schulze, U.; Kanwischer, D.; Reudenbach, C. (2011): Technikzentrierte Softwareschulung und/oder problemorientierte Denkweise? Theoretische Überlegungen und didaktische Analysen zur geographischen GIS-Ausbildung. In: Tagungsband HGD-Symposium Ludwigsburg 2011: Räumliche Orientierung, Karten und Geoinformation im Unterricht.
+Schulze, U.; Kanwischer, D.; Reudenbach, C. (2012): Technikzentrierte Softwareschulung und/oder problemorientierte Denkweise? Theoretische Überlegungen und didaktische Analysen zur geographischen GIS-Ausbildung. In: Hüttermann, A.; Kirchner, P.; Schuler, S.; Drieling, K. (Hrsg.): Räumliche Orientierung. Räumliche Orientierung, Karten und Geoinformation im Unterricht. Braunschweig: Westermann, S. 299–307.
 
-Schulze, U.; Kanwischer, D.; Reudenbach, C. (2010): Bologna – Gefahr oder Chance? Ein Praxisbericht aus der geographischen Hochschullehre zum kompetenzorientierten Lernen mit Geoinformation. In: Das Hochschulwesen, 6.2010.*
+Schulze, U., Kanwischer, D., & Reudenbach, C. (2010). Bologna – Gefahr oder Chance? Ein Praxisbericht aus der geographischen Hochschullehre zum kompetenzorientierten Lernen mit Geoinformation. Das Hochschulwesen, 58(6), 205–212. https://www.hochschulwesen.info/inhalte/hsw-6-2010.pdf
