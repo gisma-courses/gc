@@ -38,7 +38,7 @@ The directed transfer of knowledge is now only one aspect of higher education. I
 
 Teaching in the GI-S area is developed and implemented on this basis. More on this topic can be found in the following literature.
 
-# Learning contentAmmoneit, R., Reudenbach, C., & Peter, C. (2021). Selbstorganisation von Trampelpfaden im Raum modellierend erfassen – Eine komplexe Aufgabe für Studierende. In J. Fögele, R. Mehren, A. Oberrauch, & N. Raschke (Hrsg.), Die Geographie in der schulischen Praxis stärken: Abstractband zum HGD-Symposium 2020 in Gießen (S. 11–12). Universität Gießen
+# Learning content
 
 The aim of the learning and teaching modules linked here is to provide geographers and other interested parties with access to contemporary methods of spatio-temporal description, analysis and interpretation of the world.  The last decade has seen a rapid evolution in which, alongside AI methods and big data, complex physical models and the integration of complex spatio-temporal analysis have increasingly become state of the art. The road ahead is challenging. The course offerings linked on these pages are guided by the following guiding questions:
 
@@ -63,7 +63,7 @@ Ammoneit, Rieke, Christoph Reudenbach and Carina Peter. “Developing geographic
 Ammoneit, R., Reudenbach, C., & Peter, C. (2021). Selbstorganisation von Trampelpfaden im Raum modellierend erfassen – Eine komplexe Aufgabe für Studierende. In J. Fögele, R. Mehren, A. Oberrauch, & N. Raschke (Hrsg.), Die Geographie in der schulischen Praxis stärken: Abstractband zum HGD-Symposium 2020 in Gießen (S. 11–12). Universität Gießen.
 
 Ammoneit, R. Reudenbach, C., Turek, A., Nauß, T. & Peter, C. (2019). Geographische Modellierkompetenz - Modellierung von Raum konzeptualisieren. In: GW-Unterricht. 156, S. 19-29. [URL: https://doi.org/10.1553/gw-unterricht156s19](https://doi.org/10.1553/gw-unterricht156s19)
-URL:
+
 Schulze, U.; Kanwischer, D. & Reudenbach, C. (2013): Essential competences for GIS learning in higher education: a synthesis of international curricular documents in the GIS&T domain. Journal of Geography in Higher Education 37 (2), 257-275. DOI: 10.1080/03098265.2012.763162. [URL: https://www.tandfonline.com/doi/full/10.1080/03098265.2012.763162](https://www.tandfonline.com/doi/full/10.1080/03098265.2012.763162)
 
 Schulze, U.; Kanwischer, D.; Reudenbach, C. (2012): Technikzentrierte Softwareschulung und/oder problemorientierte Denkweise? Theoretische Überlegungen und didaktische Analysen zur geographischen GIS-Ausbildung. In: Hüttermann, A.; Kirchner, P.; Schuler, S.; Drieling, K. (Hrsg.): Räumliche Orientierung. Räumliche Orientierung, Karten und Geoinformation im Unterricht. Braunschweig: Westermann, S. 299–307.
