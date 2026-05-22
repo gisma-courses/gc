@@ -187,19 +187,19 @@ Advanced GIS and Remote Sensing introduces advanced geoinformatics methods for s
 
 <!-- NEW -->
 <section>
-<a href="https://gisma-courses.github.io/EON2024/" class="image">
+<a href="https://gisma-courses.github.io/EON2025/" class="image">
 <img src="assets/images/eon.png" alt="" />
 </a>
 <div class="content">
 <div class="inner">
 <header class="major">
-<h3>EON Summer School 2024 - Remote Sensing Forest Monitoring Harz</h3>
+<h3>EON Summer School 2025 - Remote Sensing Forest Monitoring Harz</h3>
 </header>
 <p>
 Remote Sensing Forest Monitoring Harz is a one-week interdisciplinary summer school in which students of Forest Sciences from Göttingen and Geography from Marburg work together. The course uses satellite data, UAV flights, terrestrial LiDAR data acquisition and microclimate sensing for monitoring forest ecosystems.
 </p>
 <ul class="actions">
-<li><a href="https://gisma-courses.github.io/EON2024/"><p class="notice--danger">German only | Start Course</p></a></li>
+<li><a href="https://gisma-courses.github.io/EON2025/"><p class="notice--danger">German only | Start Course</p></a></li>
 </ul>
 </div>
 </div>
