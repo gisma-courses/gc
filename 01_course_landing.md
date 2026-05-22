@@ -52,7 +52,7 @@ The responsibility for the content rests with the instructors. Statements, opini
 		</div>
 
 	<section>
-		<a href="https://gisma-courses.github.io/EON2024/" class="image">
+		<a href="https://gisma-courses.github.io/EON2025/" class="image">
 			<img src= "assets/images/eon.png" alt="" />
 		</a>
 		<div class="content">
@@ -101,7 +101,7 @@ Spatial and temporal data and their manipulation, analysis and representation ar
 <!-- NEW -->
 
 	<section>
-		<a href="https://gisma-courses.github.io/LV-uav-workflow/" class="image">
+		<a href="https://gisma-courses.github.io/LV-19-050-228/" class="image">
 			<img src="assets/images/LV-UAV-Guide.jpg" alt=""  />
 		</a>
 		<div class="content">
@@ -114,7 +114,7 @@ The Micro Remote Sensing course provides a complete introduction to the reproduc
 This course is designed for students of all levels who have a basic knowledge of the organisation of their operating system. Programming skills are not required, but will be helpful for the advanced module, Analysis of high-resolution aerial imagery. The focus is on a practical approach to the independent acquisition of high resolution aerial data. Post-processing of products and an introduction to classification and analysis of the generated data sets complete the course.
 				</p>
 				<ul class="actions">
-					<li><a href="https://gisma-courses.github.io/LV-uav-workflow/" class="button">Start Course</a></li>
+					<li><a href="https://gisma-courses.github.io/LV-19-050-228/" class="button">Start Course</a></li>
 				</ul>
 			</div>
 		</div>
@@ -283,6 +283,111 @@ Extracurricular learning locations allow the direct processing of geographical s
 	</section>
 
 <!-- NEW -->
+
+<!-- NEW -->
+
+	<section>
+		<a href="https://gisma-courses.github.io/LV-19-d19-006-25/" class="image">
+			<img src="https://gisma-courses.github.io/LV-19-d19-006-25/images/grubenwiese2-sp.jpg" alt="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Advanced GIS and Remote Sensing - Rainfall Monitoring Network Design</h3>
+				</header>
+				<p>
+Advanced GIS and Remote Sensing is a project-oriented course on the design, analysis and evaluation of spatially explicit hydrological monitoring networks. The course goal is to develop a reproducible and defensible rain-gauge network concept for the Kellerwald region, connecting spatial reasoning, remote-sensing data and hydrological process understanding.
+				</p>
+				<ul class="actions">
+					<li><a href="https://gisma-courses.github.io/LV-19-d19-006-25/" class="button">Start Course</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+<!-- NEW -->
+
+	<section>
+		<a href="https://ogerhub.github.io/KlimaCheck-Schulhof/" class="image">
+			<img src="https://ogerhub.github.io/KlimaCheck-Schulhof/images/header.png" alt="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>KlimaLab Schülerlabor 2026 - KlimaCheck Schulhof</h3>
+				</header>
+				<p>
+KlimaLab Schülerlabor 2026 is a student laboratory on climate change, climate evidence and learning with AI. Students work through stations on how climate change is measured, analysed and modelled, while also reflecting critically on when AI supports learning and when it replaces their own understanding.
+				</p>
+				<ul class="actions">
+					<li><a href="https://ogerhub.github.io/KlimaCheck-Schulhof/"><p class="notice--danger">German only | Start Course</p></a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+<!-- NEW -->
+
+	<section>
+		<a href="https://gisma-courses.github.io/tls-tree-climate/" class="image">
+			<img src="assets/images/envimet.png" alt="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>TLS Tree Climate - Tree Structure, Species and Energy Flow</h3>
+				</header>
+				<p>
+This course explores how trees shape climate through structure, species and energy flow. It combines laser scans, land data and physical models to analyse atmosphere-vegetation interaction, surface energy fluxes, TLS and ALS point clouds, tree species classification and simulation-ready microclimate domains.
+				</p>
+				<ul class="actions">
+					<li><a href="https://gisma-courses.github.io/tls-tree-climate/" class="button">Start Course</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+<!-- NEW -->
+
+	<section>
+		<a href="https://gisma-courses.github.io/LV-19-d19-006-24/" class="image">
+			<img src="https://gisma-courses.github.io/LV-19-d19-006-24/images/hinterland-sp.jpg" alt="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Advanced GIS and Remote Sensing - Spatial Pattern Analysis</h3>
+				</header>
+				<p>
+Advanced GIS and Remote Sensing introduces advanced geoinformatics methods for spatio-temporal analysis, regionalisation and spatial pattern description. The course focuses on adapting and developing GIS methods, designing suitable workflows, critically evaluating spatio-temporal analyses and communicating workflows and results.
+				</p>
+				<ul class="actions">
+					<li><a href="https://gisma-courses.github.io/LV-19-d19-006-24/" class="button">Start Course</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+<!-- NEW -->
+
+	<section>
+		<a href="https://gisma-courses.github.io/LV-19-d19-010-envi/" class="image">
+			<img src="https://gisma-courses.github.io/LV-19-d19-010-envi/images/hasenkopf_original.bmp" alt="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Microclimate Modeling - ENVI-met</h3>
+				</header>
+				<p>
+Microclimate Modeling introduces ENVI-met as a 3D micro-climate simulation environment for urban planning, architectural design and energy-related applications. The course covers materials, vegetation, weather-file preparation, model-domain generation, simulation runs, visualisation and interpretation of microclimate results.
+				</p>
+				<ul class="actions">
+					<li><a href="https://gisma-courses.github.io/LV-19-d19-010-envi/" class="button">Start Course</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 
 </section>
 
