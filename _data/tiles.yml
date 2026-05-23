@@ -1,0 +1,25 @@
+- title: "GiS-Lab Marburg"
+  description: "gisma spatial science resources<br/> courses blogs & opinons."
+  image: "assets/images/gisma-1.jpg"
+  href: "about.html"
+
+- title: "Courses"
+  description: "gisma spatial science resources"
+  image: "assets/images/gisma-30.jpg"
+  href: "courses.html"
+
+- title: "Theses & Assessments"
+  description: ""
+  image: "assets/images/gisma-15.jpg"
+  href: "theses-assessment.html"
+
+- title: "Software and Data"
+  description: "UAV Data and Software Tools provides by Geoinformation Science Lab Marburg"
+  image: "assets/images/climatroof-sp.2.jpg"
+  href: "software-data.html"
+
+- title: "Bologna - Deficits and Opportunities"
+  description: "My self-perception as a teacher"
+  image: "assets/images/gisma-20.jpg"
+  href: "teaching.html"
+

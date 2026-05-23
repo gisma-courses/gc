@@ -1,0 +1,54 @@
+---
+title: "Courses"
+---
+
+<section class="page-hero compact" style="--hero-image: url('assets/images/gisma-30.jpg')">
+  <div>
+    <h1>Courses</h1>
+    <p>gisma spatial science resources</p>
+  </div>
+</section>
+
+<section class="content-band">
+
+# About gisma courses
+
+The courses are regular courses in the Bachelor's and Master's programmes in Geography at the University of Marburg. They are offered by the Geoinformation Science Lab Marburg (gisma), which provides access to various teaching and research content from the Spatial Science Resources working group at the [Department of Geography](https://www.uni-marburg.de/en/fb19), [Marburg University](https://www.uni-marburg.de/en).
+
+The course content is developed and hosted on [GitHub](https://github.com/gisma-courses/).
+
+The responsibility for the content rests with the instructors. Statements, opinions and/or conclusions are those of the instructors and do not necessarily reflect the opinion of the representatives of Marburg University.
+
+</section>
+
+```{r}
+#| results: asis
+catalog <- yaml::read_yaml("_data/courses.yml")
+`%||%` <- function(x, y) if (is.null(x)) y else x
+esc <- function(x) htmltools::htmlEscape(as.character(x %||% ""))
+render_actions <- function(item) {
+  if (!is.null(item$links)) {
+    links <- vapply(item$links, function(link) {
+      sprintf('<a class="notice-danger" href="%s">%s</a>', esc(link$href), esc(link$text))
+    }, character(1))
+    return(paste0('<div class="action-row">', paste0(links, collapse = ""), '</div>'))
+  }
+  button_class <- if (isTRUE(item$notice)) "notice-danger" else "button"
+  sprintf('<div class="action-row"><a class="%s" href="%s">%s</a></div>', button_class, esc(item$href), esc(item$button %||% "Start Course"))
+}
+render_item <- function(item) {
+  media <- ""
+  if (!is.null(item$image)) {
+    media <- sprintf('<a href="%s" class="spotlight-image"><img src="%s" alt=""></a>', esc(item$href %||% "#"), esc(item$image))
+  }
+  cat(sprintf('<section class="spotlight-section">\n  %s\n  <div class="spotlight-content">\n    <div class="inner">\n      <h3>%s</h3>\n      <p>%s</p>\n      %s\n    </div>\n  </div>\n</section>\n', media, esc(item$title), esc(item$description), render_actions(item)))
+}
+for (key in c("current", "former", "back_catalogue")) {
+  group <- catalog[[key]]
+  cat(sprintf('<div class="course-group-header">\n  <h2>%s</h2>\n  <p>%s</p>\n</div>\n', esc(group$title), esc(group$subtitle)))
+  for (item in group$items) render_item(item)
+}
+```
+
+The focus is on reproducible scientific method training and education in the fields of environmental informatics, GIS, remote sensing and modelling.
+

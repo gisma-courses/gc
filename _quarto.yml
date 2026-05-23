@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: _site-quarto
+  render:
+    - index.qmd
+    - about.qmd
+    - courses.qmd
+    - teaching.qmd
+    - theses-assessment.qmd
+    - software-data.qmd
+    - 404.qmd
+
+website:
+  title: "gisma-courses"
+  site-url: "https://gisma-courses.github.io/gc/"
+  navbar:
+    title: "gisma-courses"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "GiS-Lab Marburg"
+        href: about.qmd
+      - text: "Courses"
+        href: courses.qmd
+      - text: "Theses & Assessments"
+        href: theses-assessment.qmd
+      - text: "Software and Data"
+        href: software-data.qmd
+      - text: "Bologna - Deficits and Opportunities"
+        href: teaching.qmd
+    right:
+      - icon: github
+        href: https://github.com/gisma-courses
+        aria-label: GitHub
+  page-footer:
+    left: "© Chris Reudenbach, Dep. of Geography"
+    right:
+      - text: "Philipps University Marburg"
+        href: https://www.uni-marburg.de/en
+      - text: "Impressum"
+        href: https://gisma-courses.github.io/gi-modules/post/2021-11-21-impressum/
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles/custom.scss
+    toc: false
+    page-layout: full
+    anchor-sections: false
+    link-external-newwindow: true
+
+execute:
+  echo: false
+  warning: false
+  message: false
+

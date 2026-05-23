@@ -1,0 +1,55 @@
+---
+title: "Software and Data"
+---
+
+<section class="page-hero compact" style="--hero-image: url('assets/images/climatroof-sp.2.jpg')">
+  <div>
+    <h1>Software and Data</h1>
+    <p>UAV Data and Software Tools provides by Geoinformation Science Lab Marburg</p>
+  </div>
+</section>
+
+<section class="spotlight-section">
+  <a href="https://marburgopenforest.github.io/MOFknowledge/" class="spotlight-image">
+    <img src="assets/images/mof.png" alt="">
+  </a>
+  <div class="spotlight-content">
+    <div class="inner">
+      <h3>Marburg Open Forest</h3>
+      <p>The Marburg Open Forest Knowledge Web provides access to data and resources from the Marburg University Forest. These resources have been collected since 2016 as part of research and teaching at the Institute of Geography at the University of Marburg.</p>
+      <p><a class="button" href="https://marburgopenforest.github.io/MOFknowledge/">Learn more</a></p>
+    </div>
+  </div>
+</section>
+
+<section class="spotlight-section">
+  <a href="http://137.248.191.201:5000/r/uav" class="spotlight-image">
+    <img src="assets/images/dji.jpg" alt="">
+  </a>
+  <div class="spotlight-content">
+    <div class="inner">
+      <h3>UAV Data sets</h3>
+      <p>Since 2016, image and measurement data has been collected using drone flights as part of research and teaching, and as this involves large amounts of data, making it available via the internet is associated with some problems. The currently processed data is made available for viewing and downloading on the temporary web database droneDB.</p>
+      <p><a class="button" href="http://137.248.191.201:5000/r/uav">Learn more</a></p>
+    </div>
+  </div>
+</section>
+
+<section class="spotlight-section">
+  <div class="spotlight-image">
+    <img src="assets/images/code.png" alt="">
+  </div>
+  <div class="spotlight-content">
+    <div class="inner">
+      <h3>Software</h3>
+      <p>The software listed here are the currently maintained R packages and scripts.</p>
+      <ul>
+        <li><a href="https://r-spatial.github.io/link2GI/">link2GI</a></li>
+        <li><a href="https://gisma.github.io/uavRmp/">uavRmp</a></li>
+        <li><a href="https://github.com/gisma/MetashapeTools">Metashape Tools</a></li>
+      </ul>
+      <p><a class="button" href="https://github.com/gisma?tab=repositories">Learn more at GitHub</a></p>
+    </div>
+  </div>
+</section>
+

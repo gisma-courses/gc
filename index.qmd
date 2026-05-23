@@ -1,0 +1,27 @@
+---
+title: "Home"
+---
+
+<section class="page-hero" style="--hero-image: url('assets/images/banner.jpg')">
+  <div>
+    <h1>GISMA SPATIAL SCIENCE RESOURCES</h1>
+    <p>The Landing Page for all kinds of teaching and blogs about wild spaces <br> released under the Creative Commons.</p>
+  </div>
+</section>
+
+```{r}
+#| results: asis
+tiles <- yaml::read_yaml("_data/tiles.yml")
+esc <- function(x) htmltools::htmlEscape(x %||% "")
+`%||%` <- function(x, y) if (is.null(x)) y else x
+cat('```{=html}\n<section class="tiles-grid">\n')
+for (tile in tiles) {
+  title <- esc(tile$title)
+  description <- tile$description %||% ""
+  image <- esc(tile$image)
+  href <- esc(tile$href)
+  cat(sprintf('  <article class="tile-card" style="--tile-image: url(\'%s\')">\n    <a href="%s" aria-label="%s"></a>\n    <div class="tile-body">\n      <h2>%s</h2>\n      <p>%s</p>\n    </div>\n  </article>\n', image, href, title, title, description))
+}
+cat('</section>\n```\n')
+```
+

@@ -1,0 +1,10 @@
+---
+title: "404"
+---
+
+<section class="content-band">
+
+Page not found! :(
+
+</section>
+

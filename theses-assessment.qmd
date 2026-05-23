@@ -1,0 +1,23 @@
+---
+title: "Theses & Assessments"
+---
+
+<section class="page-hero compact" style="--hero-image: url('assets/images/gisma-15.jpg')">
+  <div>
+    <h1>Theses & Assessments</h1>
+  </div>
+</section>
+
+<section class="content-band">
+
+```{r}
+#| results: asis
+source <- readLines("Theses_Evaluation.md", warn = FALSE)
+if (length(source) >= 2 && source[1] == "---") {
+  ends <- which(source[-1] == "---") + 1
+  if (length(ends) > 0) source <- source[(ends[1] + 1):length(source)]
+}
+cat(paste(source, collapse = "\n"))
+```
+
+</section>
