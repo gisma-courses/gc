@@ -1,7 +1,7 @@
 ---
 title: GiS-Lab Marburg
 layout: landing
-description: 'gisma spatial science ressources<br/> courses blogs & opinons.'
+description: 'gisma spatial science resources<br/> courses blogs & opinons.'
 image: assets/images/gisma-1.jpg
 nav-menu: true
 ---
