@@ -1,7 +1,20 @@
 ---
+layout: home
+title: Home
+landing-title: 'GISMA SPATIAL SCIENCE RESOURCES'
+description: null
+image: null
+author: null
+show_tile: false
+---
+
+gisma-courses provides access to different types of teaching and research content from the GISMA Spatial Science Resources working group at the Department of Geography, Philipps-Universität Marburg.  
+
+The main goal of this entry page is to make geoinformational concepts and content available in different formats, from blog posts and single tutorials to complete courses.
+---
 title: Courses
 layout: landing
-description: 'gisma spatial science ressources'
+description: 'gisma spatial science resources'
 image: assets/images/gisma-30.jpg
 nav-menu: true
 ---
@@ -27,11 +40,11 @@ img {
 <h1>About gisma courses</h1>
 </header>
 <p>
-The courses are all regular courses in the Bachelor's and Master's programmes in Geography at the University of Marburg. These courses are offered by the Geoinformation Science Lab Marburg (gisma), which provides access to various teaching and research contents of the working group Spatial Science Resources at the <a href="https://www.uni-marburg.de/en/fb19"> Department of Geography </a>,<a href="https://www.uni-marburg.de/en"> Marburg University  </a>.
+The courses are regular courses in the Bachelor's and Master's programmes in Geography at the University of Marburg. They are offered by the Geoinformation Science Lab Marburg (gisma), which provides access to various teaching and research content from the Spatial Science Resources working group at the <a href="https://www.uni-marburg.de/en/fb19">Department of Geography</a>, <a href="https://www.uni-marburg.de/en">Marburg University</a>.
 
 The course content is developed and hosted on <i class="fa fa-github"></i> <a href="https://github.com/gisma-courses/">GitHub</a>.
 
-The responsibility for the content rests with the instructors. Statements, opinions and/or conclusions are the ones from the instructors and do not necessarily reflect the opinion of the representatives of Marburg University.
+The responsibility for the content rests with the instructors. Statements, opinions and/or conclusions are those of the instructors and do not necessarily reflect the opinion of the representatives of Marburg University.
 </p>
 </div>
 </section>
@@ -156,7 +169,7 @@ This course explores how trees shape climate through structure, species and ener
 <h3>Microclimate Modeling - ENVI-met</h3>
 </header>
 <p>
-Microclimate Modeling introduces ENVI-met as a 3D micro-climate simulation environment for urban planning, architectural design and energy-related applications. The course covers materials, vegetation, weather-file preparation, model-domain generation, simulation runs, visualisation and interpretation of microclimate results.
+Microclimate Modeling introduces ENVI-met as a 3D microclimate simulation environment for urban planning, architectural design and energy-related applications. The course covers materials, vegetation, weather-file preparation, model-domain generation, simulation runs, visualisation and interpretation of microclimate results.
 </p>
 <ul class="actions">
 <li><a href="https://gisma-courses.github.io/LV-19-d19-010-envi/" class="button">Start Course</a></li>
@@ -187,19 +200,19 @@ Advanced GIS and Remote Sensing introduces advanced geoinformatics methods for s
 
 <!-- NEW -->
 <section>
-<a href="https://gisma-courses.github.io/EON2025/" class="image">
+<a href="https://gisma-courses.github.io/EON2024/" class="image">
 <img src="assets/images/eon.png" alt="" />
 </a>
 <div class="content">
 <div class="inner">
 <header class="major">
-<h3>EON Summer School 2025 - Remote Sensing Forest Monitoring Harz</h3>
+<h3>EON Summer School 2024 - Remote Sensing Forest Monitoring Harz</h3>
 </header>
 <p>
 Remote Sensing Forest Monitoring Harz is a one-week interdisciplinary summer school in which students of Forest Sciences from Göttingen and Geography from Marburg work together. The course uses satellite data, UAV flights, terrestrial LiDAR data acquisition and microclimate sensing for monitoring forest ecosystems.
 </p>
 <ul class="actions">
-<li><a href="https://gisma-courses.github.io/EON2025/"><p class="notice--danger">German only | Start Course</p></a></li>
+<li><a href="https://gisma-courses.github.io/EON2024/"><p class="notice--danger">German only | Start Course</p></a></li>
 </ul>
 </div>
 </div>
@@ -327,7 +340,7 @@ Agent-based Modelling introduces modelling as a transparent but necessarily sele
 <h3>Geoinformatics methods - Statistical Micro Climate Modelling</h3>
 </header>
 <p>
-Geoinformatics Methods - Statistical Micro Climate Modelling is a full semester overview of selected methodological approaches in advanced GIS analysis using reproducible research workflows based on R and open-source software. The scientific topic is statistical modelling of forest microclimate based on LiDAR, Sentinel data and station measurements.
+Geoinformatics Methods - Statistical Microclimate Modelling is a full semester overview of selected methodological approaches in advanced GIS analysis using reproducible research workflows based on R and open-source software. The scientific topic is statistical modelling of forest microclimate based on LiDAR, Sentinel data and station measurements.
 </p>
 <ul class="actions">
 <li><a href="https://gisma-courses.github.io/LV-19-d19-006/" class="button">Start Course</a></li>
@@ -347,7 +360,7 @@ Geoinformatics Methods - Statistical Micro Climate Modelling is a full semester 
 <h3>Geoinformatics methods - Remote Sensing Change Detection</h3>
 </header>
 <p>
-The course Methods of Geoinformatics - Change Detection provides an introduction to reproducible land-surface and land-use change detection using R, open-source software and GitHub-based workflows. It is aimed at geography students with basic operating-system knowledge.
+The course Methods of Geoinformatics - Change Detection provides an introduction to reproducible land-surface and land-use change detection using R, open-source software and GitHub-based workflows. It is aimed at geography students with basic operating system knowledge.
 </p>
 <ul class="actions">
 <li><a href="https://gisma-courses.github.io/LV-19-050-007/"><p class="notice--danger">German only | Start Course</p></a></li>
@@ -427,7 +440,7 @@ This basic geoinformatics course introduces fundamental GIS concepts, QGIS workf
 <h3>Geoinformatics methods - System Dynamics, an introduction</h3>
 </header>
 <p>
-The course introduces the understanding of spatio-temporal processes, the delineation and modelling of systems and the simulation of system dynamics. It treats modelling and simulation as scientific means of knowledge production and communication in geography.
+The course introduces spatio-temporal processes, the delineation and modelling of systems and the simulation of system dynamics. It treats modelling and simulation as scientific means of knowledge production and communication in geography.
 </p>
 <ul class="actions">
 <li><a href="https://gisma-courses.github.io/bsc-systemdynamik/"><p class="notice--danger">German only | Start Course</p></a></li>
@@ -508,3 +521,5 @@ GISMA's first two German-language GIS learning modules are preserved here becaus
 </section>
 
 </div>
+
+The focus is on reproducible scientific method training and education in the fields of environmental informatics, GIS, remote sensing and modelling.

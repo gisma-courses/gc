@@ -1,6 +1,6 @@
 # site settings
 title: gisma-courses
-subtitle: gisma spatial science ressources
+subtitle: gisma spatial science resources
 email: reudenbach@uni-marburg.de
 description: The Landing Page for all kinds of teaching and blogs about wild spaces <br> released under the Creative Commons.
 baseurl: "/gc" # the subpath of your site, e.g. /blog
