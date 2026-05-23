@@ -12,7 +12,7 @@ current:
       href: "https://gisma-courses.github.io/gc-geoinfo/"
       image: "assets/images/geoinfo.jpg"
       description: "Spatial and temporal data, their manipulation, analysis and representation are fundamental scientific elements of geography. The course introduces geodata types, visual exploration, GIS-based analysis, presentation and reproducible workflows as core competences for geographers."
-      button: "German only | Start Course"
+      button: "Start Course"
       notice: true
     - title: "Micro-Remote Sensing - UAV based Remote Sensing workflows"
       href: "https://gisma-courses.github.io/LV-19-050-228/"
@@ -43,7 +43,7 @@ current:
       href: "https://gisma-courses.github.io/EON2024/"
       image: "assets/images/eon.png"
       description: "Remote Sensing Forest Monitoring Harz is a one-week interdisciplinary summer school in which students of Forest Sciences from Göttingen and Geography from Marburg work together. The course uses satellite data, UAV flights, terrestrial LiDAR data acquisition and microclimate sensing for monitoring forest ecosystems."
-      button: "German only | Start Course"
+      button: "Start Course"
       notice: true
     - title: "Extracurricular learning locations (Ausserschulische Lernorte AsLo)"
       href: "https://ogerhub.github.io/aslo/"
@@ -92,7 +92,7 @@ former:
       href: "https://gisma-courses.github.io/r-spatial-econometry-basics/"
       image: "assets/images/econ.png"
       description: "Spatio-temporal data analysis, especially of big data, and spatio-temporal prediction are typical requirements of spatial econometrics. The course introduces spatial data handling, preparation, visual exploration, analysis and presentation as core competences for spatial economic and social processes."
-      button: "German only | Start Course"
+      button: "Start Course"
       notice: true
     - title: "Advanced GIS and Remote Sensing - GIS Workflows 2022"
       href: "https://gisma-courses.github.io/LV-19-d19-006-22/"
