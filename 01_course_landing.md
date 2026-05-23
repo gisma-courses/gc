@@ -1,17 +1,4 @@
 ---
-layout: home
-title: Home
-landing-title: 'GISMA SPATIAL SCIENCE RESOURCES'
-description: null
-image: null
-author: null
-show_tile: false
----
-
-gisma-courses provides access to different types of teaching and research content from the GISMA Spatial Science Resources working group at the Department of Geography, Philipps-Universität Marburg.  
-
-The main goal of this entry page is to make geoinformational concepts and content available in different formats, from blog posts and single tutorials to complete courses.
----
 title: Courses
 layout: landing
 description: 'gisma spatial science resources'
