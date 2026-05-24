@@ -61,26 +61,23 @@ quarto render
 
 The rendered website can be deployed through GitHub Pages. Depending on the repository setup, deployment may use GitHub Actions.
 
-## Credits
 
-The visual design is based on the **Forty** theme by [HTML5 UP](https://html5up.net/), adapted for this Quarto-based course website.
+## Credits and History
 
-Original theme credit:
+This course website originally started from the Jekyll implementation of the **Forty** theme by **Andrew Banchich**, based on the original **Forty** theme by HTML5 UP.
 
 ```text
+Jekyll adaptation:
+Andrew Banchich
+forty-jekyll-theme
+https://github.com/andrewbanchich/forty-jekyll-theme
+````
+
+```text
+Original theme:
 Forty by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license
 ```
 
-Theme resources:
-
-```text
-Icons: Font Awesome
-Original demo image source: Unsplash
-Original HTML/CSS/JS base: HTML5 UP Forty
-```
-
-Repository icon credit:
-
-The Jekyll logo icon, where still present in inherited assets, is licensed under a Creative Commons Attribution 4.0 International License.
+The current version has been substantially reworked and migrated to Quarto. The repository history and contributor list may still reflect the original Jekyll-based origin.

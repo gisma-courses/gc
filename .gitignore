@@ -5,4 +5,8 @@ Gemfile.lock
 .jekyll-cache
 .Rproj.user
 .nojekyll
-
+.positai
+/.quarto/
+**/*.quarto_ipynb
+_site-quarto
+01_course_landing.html
