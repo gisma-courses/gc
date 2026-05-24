@@ -25,7 +25,7 @@ jobs:
 
       - name: Install R packages
         run: |
-          Rscript -e 'install.packages(c("yaml", "htmltools"), repos = "https://cloud.r-project.org")'
+          Rscript -e 'install.packages(c("knitr", "rmarkdown", "yaml", "htmltools"), repos = "https://cloud.r-project.org")'
 
       - name: Render Quarto site
         uses: quarto-dev/quarto-actions/render@v2
