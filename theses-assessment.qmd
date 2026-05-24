@@ -12,7 +12,7 @@ title: "Theses & Assessments"
 
 ```{r}
 #| results: asis
-source <- readLines("Theses_Evaluation.md", warn = FALSE)
+source <- readLines("Theses_Evaluation.qmd", warn = FALSE)
 if (length(source) >= 2 && source[1] == "---") {
   ends <- which(source[-1] == "---") + 1
   if (length(ends) > 0) source <- source[(ends[1] + 1):length(source)]
