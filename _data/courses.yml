@@ -76,13 +76,13 @@ former:
       image: assets/images/geoai.png
       description: >-
         GeoAI focuses on understanding spatial problems, applying remote sensing and using AI to predict spatial patterns. The course links local surveys with area-wide remote sensing observations and machine-learning methods for human-environment research.
-      button: Start Course
-    - title: Advanced GIS and Remote Sensing - GIS Workflows 2023
-      href: https://gisma-courses.github.io/LV-19-d19-006-23/
-      image: assets/images/LV-19-d19-006.png
-      description: >-
-        This course version covers advanced GIS and remote-sensing workflows, with QGIS, DEM analysis, watershed concepts, working-environment setup, remote-sensing projects and reproducible analysis workflows. It emphasises method adaptation, workflow design, critical evaluation and communication of results.
-      button: Start Course
+    #   button: Start Course
+    # - title: Advanced GIS and Remote Sensing - GIS Workflows 2023
+    #   href: https://gisma-courses.github.io/LV-19-d19-006-23/
+    #   image: assets/images/LV-19-d19-006.png
+    #   description: >-
+    #     This course version covers advanced GIS and remote-sensing workflows, with QGIS, DEM analysis, watershed concepts, working-environment setup, remote-sensing projects and reproducible analysis workflows. It emphasises method adaptation, workflow design, critical evaluation and communication of results.
+    #   button: Start Course
     - title: Agent-based Modelling - Abstraction and Model Building
       href: https://gisma-courses.github.io/LV-19-050-189-ABM/
       image: https://gisma-courses.github.io/LV-19-050-189-ABM/images/logo.png
