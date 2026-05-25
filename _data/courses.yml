@@ -90,9 +90,9 @@ former:
         Agent-based Modelling introduces modelling as a transparent but necessarily selective abstraction of complex reality. The course focuses on how scientific concepts and general ideas can be translated into model structures, and how bottom-up and top-down approaches can be used to develop and understand models in NetLogo.
       button: Start Course
       notice: German only | Start Course
-    - title: Geoinformatics methods - Statistical Micro Climate Modelling
+    - title: Geoinformatics methods 2021 - Statistical Micro Climate Modelling
       href: https://gisma-courses.github.io/LV-19-d19-006/
-      image: assets/images/LV-19-d19-006.png
+      image: assets/images/microclimate2021.png
       description: >-
         Geoinformatics Methods - Statistical Microclimate Modelling is a full semester overview of selected methodological approaches in advanced GIS analysis using reproducible research workflows based on R and open-source software. The scientific topic is statistical modelling of forest microclimate based on LiDAR, Sentinel data and station measurements.
       button: Start Course
