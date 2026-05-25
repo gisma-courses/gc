@@ -1,0 +1,21 @@
+<!-- NEW -->
+<section>
+{% if include.course.image %}<a href="{{ include.course.href }}" class="image">
+<img src="{{ include.course.image }}" alt="" />
+</a>
+{% endif %}<div class="content">
+<div class="inner">
+<header class="major">
+<h3>{{ include.course.title }}</h3>
+</header>
+<p>
+{{ include.course.description }}
+</p>
+<ul class="actions">
+{% if include.course.links %}{% for link in include.course.links %}<li><a href="{{ link.href }}">{% if link.notice %}<p class="notice--danger">{{ link.notice }}</p>{% else %}{{ link.button }}{% endif %}</a></li>
+{% endfor %}{% elsif include.course.notice %}<li><a href="{{ include.course.href }}"><p class="notice--danger">{{ include.course.notice }}</p></a></li>
+{% else %}<li><a href="{{ include.course.href }}" class="button">{{ include.course.button }}</a></li>
+{% endif %}</ul>
+</div>
+</div>
+</section>

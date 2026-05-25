@@ -1,0 +1,159 @@
+regular:
+  title: Regular Courses
+  subtitle: Current course pages and teaching resources from the last two years
+  items:
+    - title: KlimaLab Schülerlabor 2026 - KlimaCheck Schulhof
+      href: https://ogerhub.github.io/KlimaCheck-Schulhof/
+      image: https://ogerhub.github.io/KlimaCheck-Schulhof/images/header.png
+      description: >-
+        KlimaLab Schülerlabor 2026 is a student laboratory on climate change, climate evidence and AI-supported learning. Students work through stations on how climate change is measured, analysed and modelled, while also reflecting critically on when AI supports learning and when it replaces their own understanding.
+      button: Start Course
+      notice: German only | Start Course
+    - title: Geoinformatics methods - Basic geoinformatics course (QGIS)
+      href: https://gisma-courses.github.io/gc-geoinfo/
+      image: assets/images/geoinfo.jpg
+      description: >-
+        Spatial and temporal data, their manipulation, analysis and representation are fundamental scientific elements of geography. The course introduces geodata types, visual exploration, GIS-based analysis, presentation and reproducible workflows as core competences for geographers.
+      button: Start Course
+      notice: German only | Start Course
+    - title: Micro-Remote Sensing - UAV based Remote Sensing workflows
+      href: https://gisma-courses.github.io/LV-19-050-228/
+      image: assets/images/LV-UAV-Guide.jpg
+      description: >-
+        The Micro Remote Sensing course offers a comprehensive introduction to reproducible flight planning, UAV-based data acquisition, pre-processing and example-based analysis of high-resolution, low-cost image data using commercial and open-source software tools.
+      button: Start Course
+    - title: Advanced GIS and Remote Sensing - Rainfall Monitoring Network Design
+      href: https://gisma-courses.github.io/LV-19-d19-006-25/
+      image: https://gisma-courses.github.io/LV-19-d19-006-25/images/grubenwiese2-sp.jpg
+      description: >-
+        Advanced GIS and Remote Sensing is a project-oriented course on the design, analysis and evaluation of spatially explicit hydrological monitoring networks. The course goal is to develop a reproducible and defensible rain-gauge network concept for the Kellerwald region by connecting spatial reasoning, remote-sensing data and hydrological process understanding.
+      button: Start Course
+    - title: TLS Tree Climate - Tree Structure, Species and Energy Flow
+      href: https://gisma-courses.github.io/tls-tree-climate/
+      image: assets/images/envimet.png
+      description: >-
+        This course explores how trees shape climate through structure, species and energy flow. It combines laser scans, land data and physical models to analyse atmosphere-vegetation interaction, surface energy fluxes, TLS and ALS point clouds, tree species classification and simulation-ready microclimate domains.
+      button: Start Course
+    - title: Microclimate Modeling - ENVI-met
+      href: https://gisma-courses.github.io/LV-19-d19-010-envi/
+      image: https://gisma-courses.github.io/LV-19-d19-010-envi/images/hasenkopf_original.bmp
+      description: >-
+        Microclimate Modeling introduces ENVI-met as a 3D microclimate simulation environment for urban planning, architectural design and energy-related applications. The course covers materials, vegetation, weather-file preparation, model-domain generation, simulation runs, visualisation and interpretation of microclimate results.
+      button: Start Course
+    - title: Advanced GIS and Remote Sensing - Spatial Pattern Analysis
+      href: https://gisma-courses.github.io/LV-19-d19-006-24/
+      image: https://gisma-courses.github.io/LV-19-d19-006-24/images/hinterland-sp.jpg
+      description: >-
+        Advanced GIS and Remote Sensing introduces advanced geoinformatics methods for spatio-temporal analysis, regionalisation and spatial pattern description. The course focuses on adapting and developing GIS methods, designing suitable workflows, critically evaluating spatio-temporal analyses and communicating workflows and results.
+      button: Start Course
+    - title: EON Summer School 2024 - Remote Sensing Forest Monitoring Harz
+      href: https://gisma-courses.github.io/EON2024/
+      image: assets/images/eon.png
+      description: >-
+        Remote Sensing Forest Monitoring Harz is a one-week interdisciplinary summer school in which students of Forest Sciences from Göttingen and Geography from Marburg work together. The course uses satellite data, UAV flights, terrestrial LiDAR data acquisition and microclimate sensing for monitoring forest ecosystems.
+      button: Start Course
+      notice: German only | Start Course
+    - title: Extracurricular learning locations (Ausserschulische Lernorte AsLo)
+      href: https://ogerhub.github.io/aslo/
+      image: https://ogerhub.github.io/aslo/images/banneraslo.png
+      description: >-
+        Extracurricular learning locations allow the direct processing of geographical subject matter in real space. In this module, students develop learning locations that are resilient, adaptive, vulnerable or maladaptive in relation to climate change and translate the topic into a 60-minute excursion.
+      button: Start Course
+      notice: German only | Start Course
+
+former:
+  title: Former Courses
+  subtitle: Oldies but Goodies
+  items:
+    - title: GI Modules - Geoinformatics Learning Collection
+      href: https://gisma-courses.github.io/gi-modules/
+      image: assets/images/gi-modules.jpg
+      description: >-
+        GI Modules is a blog-based collection of learning content in the broad field of geoinformatics. The blogs are sorted by categories and tags; the material is thematically associated but not intended as a single closed workflow.
+      button: Start Course
+    - title: GeoAI - use AI to predict spatial patterns
+      href: https://geomoer.github.io/geoAI/
+      image: assets/images/geoai.png
+      description: >-
+        GeoAI focuses on understanding spatial problems, applying remote sensing and using AI to predict spatial patterns. The course links local surveys with area-wide remote sensing observations and machine-learning methods for human-environment research.
+      button: Start Course
+    - title: Advanced GIS and Remote Sensing - GIS Workflows 2023
+      href: https://gisma-courses.github.io/LV-19-d19-006-23/
+      image: assets/images/LV-19-d19-006.png
+      description: >-
+        This course version covers advanced GIS and remote-sensing workflows, with QGIS, DEM analysis, watershed concepts, working-environment setup, remote-sensing projects and reproducible analysis workflows. It emphasises method adaptation, workflow design, critical evaluation and communication of results.
+      button: Start Course
+    - title: Agent-based Modelling - Abstraction and Model Building
+      href: https://gisma-courses.github.io/LV-19-050-189-ABM/
+      image: https://gisma-courses.github.io/LV-19-050-189-ABM/images/logo.png
+      description: >-
+        Agent-based Modelling introduces modelling as a transparent but necessarily selective abstraction of complex reality. The course focuses on how scientific concepts and general ideas can be translated into model structures, and how bottom-up and top-down approaches can be used to develop and understand models in NetLogo.
+      button: Start Course
+      notice: German only | Start Course
+    - title: Geoinformatics methods - Statistical Micro Climate Modelling
+      href: https://gisma-courses.github.io/LV-19-d19-006/
+      image: assets/images/LV-19-d19-006.png
+      description: >-
+        Geoinformatics Methods - Statistical Microclimate Modelling is a full semester overview of selected methodological approaches in advanced GIS analysis using reproducible research workflows based on R and open-source software. The scientific topic is statistical modelling of forest microclimate based on LiDAR, Sentinel data and station measurements.
+      button: Start Course
+    - title: Geoinformatics methods - Remote Sensing Change Detection
+      href: https://gisma-courses.github.io/LV-19-050-007/
+      image: assets/images/LV-19-050-007.jpg
+      description: >-
+        The course Methods of Geoinformatics - Change Detection provides an introduction to reproducible land-surface and land-use change detection using R, open-source software and GitHub-based workflows. It is aimed at geography students with basic operating system knowledge.
+      button: Start Course
+      notice: German only | Start Course
+    - title: Geoinformatics methods - Big Data and Spatial Econometrics
+      href: https://gisma-courses.github.io/r-spatial-econometry-basics/
+      image: assets/images/econ.png
+      description: >-
+        Spatio-temporal data analysis, especially of big data, and spatio-temporal prediction are typical requirements of spatial econometrics. The course introduces spatial data handling, preparation, visual exploration, analysis and presentation as core competences for spatial economic and social processes.
+      button: Start Course
+      notice: German only | Start Course
+    - title: Advanced GIS and Remote Sensing - GIS Workflows 2022
+      href: https://gisma-courses.github.io/LV-19-d19-006-22/
+      image: assets/images/LV-19-d19-006.png
+      description: >-
+        This earlier Advanced GIS and Remote Sensing course version belongs to the same advanced geoinformatics sequence and keeps the focus on reproducible spatial workflows, geoinformatics methods, remote-sensing input data and critical analysis of spatio-temporal patterns.
+      button: Start Course
+    - title: Geoinformatik Basiskurs (QGIS)
+      href: https://gisma-courses.github.io/geoinfo-basis-qgis/
+      image: assets/images/geoinfo.jpg
+      description: >-
+        This basic geoinformatics course introduces fundamental GIS concepts, QGIS workflows, geodata representation, spatial analysis and map-based communication. It is an earlier course version and remains useful as a reference for core QGIS teaching material.
+      button: Start Course
+      notice: German only | Start Course
+    - title: Geoinformatics methods - System Dynamics, an introduction
+      href: https://gisma-courses.github.io/bsc-systemdynamik/
+      image: assets/images/sysdyn.png
+      description: >-
+        The course introduces spatio-temporal processes, the delineation and modelling of systems and the simulation of system dynamics. It treats modelling and simulation as scientific means of knowledge production and communication in geography.
+      button: Start Course
+      notice: German only | Start Course
+    - title: Methods of Geoinformatics - Basic Course
+      href: https://gisma-courses.github.io/bsc-geoinfo-basic/
+      image: assets/images/geoinfo.jpg
+      description: >-
+        This older basic geoinformatics course introduces the manipulation and analysis of spatial data for bachelor-level geography. It covers geodata types, visualisation, GIS-based representation of real-world processes and a small independent project report.
+      button: Start Course
+      notice: German only | Start Course
+    - title: Media Competence in Geography
+      href: https://geomoer.github.io/moer-meko/
+      image: assets/images/meko.png
+      description: >-
+        Media Competence in Geography treats media and models as scientific instruments of geography. The course focuses on categorising geomedia, producing examples, modelling spatial processes and reflecting on the suitability of media for specific geographical problems.
+      button: Start Course
+      notice: German only | Start Course
+
+back_catalogue:
+  title: GISMA Back Catalogue
+  subtitle: Useful classics and legacy teaching material
+  items:
+    - title: GIS Modules Bachelor 2010/2011
+      description: >-
+        GISMA's first two German-language GIS learning modules are preserved here because they are still occasionally useful as historical teaching resources. They were designed as blended-learning modules with structured knowledge bases, self-directed learning phases and SCORM/IMS-compatible material. Because the technology is now substantially outdated, display errors and broken interactions are possible.
+      links:
+        - href: http://gisbsc.gis-ma.org/GISBScL1/de/html/index.html
+          notice: German only | GIS Modul 2010
+        - href: http://minibsc.gis-ma.org/GISBScL1/de/html/index.html
+          notice: German only | GIS Modul 2011
