@@ -153,7 +153,7 @@ back_catalogue:
       description: >-
         GISMA's first two German-language GIS learning modules are preserved here because they are still occasionally useful as historical teaching resources. They were designed as blended-learning modules with structured knowledge bases, self-directed learning phases and SCORM/IMS-compatible material. Because the technology is now substantially outdated, display errors and broken interactions are possible.
       links:
-        - href: http://gisbsc.gis-ma.org/GISBScL1/de/html/index.html
+        - href: https://gisma-courses.github.io/gisbsc/index.html
           notice: German only | GIS Modul 2010
-        - href: http://minibsc.gis-ma.org/GISBScL1/de/html/index.html
+        - href: https://gisma-courses.github.io/minibsc/index.html
           notice: German only | GIS Modul 2011
