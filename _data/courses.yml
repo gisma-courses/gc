@@ -130,13 +130,13 @@ former:
         The course introduces spatio-temporal processes, the delineation and modelling of systems and the simulation of system dynamics. It treats modelling and simulation as scientific means of knowledge production and communication in geography.
       button: Start Course
       notice: German only | Start Course
-    - title: Methods of Geoinformatics - Basic Course
-      href: https://gisma-courses.github.io/bsc-geoinfo-basic/
-      image: assets/images/geoinfo.jpg
-      description: >-
-        This older basic geoinformatics course introduces the manipulation and analysis of spatial data for bachelor-level geography. It covers geodata types, visualisation, GIS-based representation of real-world processes and a small independent project report.
-      button: Start Course
-      notice: German only | Start Course
+    # - title: Methods of Geoinformatics - Basic Course
+    #   href: https://gisma-courses.github.io/bsc-geoinfo-basic/
+    #   image: assets/images/geoinfo.jpg
+    #   description: >-
+    #     This older basic geoinformatics course introduces the manipulation and analysis of spatial data for bachelor-level geography. It covers geodata types, visualisation, GIS-based representation of real-world processes and a small independent project report.
+    #   button: Start Course
+    #   notice: German only | Start Course
     - title: Media Competence in Geography
       href: https://geomoer.github.io/moer-meko/
       image: assets/images/meko.png
