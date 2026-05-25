@@ -151,7 +151,7 @@ back_catalogue:
   items:
     - title: GIS Modules Bachelor 2010/2011
       description: >-
-        GISMA's first two German-language GIS learning modules are preserved here because they are still occasionally useful as historical teaching resources. They were designed as blended-learning modules with structured knowledge bases, self-directed learning phases and SCORM/IMS-compatible material. Because the technology is now substantially outdated, display errors and broken interactions are possible.
+        GISMA's first two German-language GIS learning modules are preserved here because they are still occasionally useful as historical teaching resources. They were designed as blended-learning modules with structured knowledge bases, self-directed learning phases and SCORM/IMS-compatible material. Because the technology is now **substantially outdated**, display errors and broken interactions are possible. However The corses are fully self-containing including materials for ArcGIS.
       links:
         - href: https://gisma-courses.github.io/gisbsc/index.html
           notice: German only | GIS Modul 2010
