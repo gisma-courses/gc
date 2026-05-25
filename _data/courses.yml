@@ -149,11 +149,11 @@ back_catalogue:
   title: GISMA Back Catalogue
   subtitle: Useful classics and legacy teaching material
   items:
-    - title: GIS Modules Bachelor 2010/2011
+    - title: GIS Modules Bachelor 2009/2014
       description: >-
         GISMA's first two German-language GIS learning modules are preserved here because they are still occasionally useful as historical teaching resources. They were designed as blended-learning modules with structured knowledge bases, self-directed learning phases and SCORM/IMS-compatible material. Because the technology is now **substantially outdated**, display errors and broken interactions are possible. However The corses are fully self-containing including materials for ArcGIS.
       links:
         - href: https://gisma-courses.github.io/gisbsc/index.html
-          notice: German only | GIS Modul 2010
+          notice: German only | GIS Modul 2009-2010
         - href: https://gisma-courses.github.io/minibsc/GISBScL1/de/html/index.html
-          notice: German only | GIS Modul 2011
+          notice: German only | GIS Modul 2011-2012
