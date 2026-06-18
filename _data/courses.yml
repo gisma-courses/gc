@@ -3,10 +3,11 @@ regular:
   subtitle: Current course pages and teaching resources from the last two years
   items:
     - title: KlimaLab Schülerlabor 2026 - KlimaCheck Schulhof
-      href: https://ogerhub.github.io/KlimaCheck-Schulhof/
-      image: https://ogerhub.github.io/KlimaCheck-Schulhof/images/header.png
+      href: https://ogerhub.github.io/KlimaResilienzSchule/
+      image: https://ogerhub.github.io/KlimaResilienzSchule/images/polaroidheader.png
       description: >-
-        KlimaLab Schülerlabor 2026 is a student laboratory on climate change, climate evidence and AI-supported learning. Students work through stations on how climate change is measured, analysed and modelled, while also reflecting critically on when AI supports learning and when it replaces their own understanding.
+       The Climate Resilience School helps teachers and students explore climate change, climate resilience, and scientific methods through practical classroom materials. Students investigate climate phenomena such as heat, albedo, urban climate, and the greenhouse effect using experiments, maps, data, and models. They also reflect on how AI can support learning and where independent thinking, checking, and reasoning remain essential.
+
       button: Start Course
       notice: German only | Start Course
     - title: Geoinformatics methods - Basic geoinformatics course (QGIS)
